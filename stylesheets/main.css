@@ -14,6 +14,11 @@
     color: black;
 }
 
+#bluecolor{
+    color: #000080;
+    text-align: center;
+}
+
 #border{
     border: 1px solid black;
     width: 630px;
@@ -117,6 +122,10 @@
     background-color: #ffffff;
     text-decoration: none;
     color: #000000;
+}
+
+.piedpage{
+    margin-top: 12px;
 }
 
 .redline    {
