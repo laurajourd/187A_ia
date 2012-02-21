@@ -25,6 +25,27 @@
     margin-left: 144px;
 }
 
+#carousel {
+	margin: 0 0 0 0;
+	width: 400px;
+	height: 390px;
+	padding: 0;
+	/*overflow: scroll;*/
+	border: 2px solid #999;
+}
+#carousel ul {
+	list-style: none;
+	width: 1500px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+/*#carousel li {
+	display: inline;
+	float: left;
+}*/
+
+
 #color{
     background-color:  #F4F2EE;
 }
@@ -32,6 +53,7 @@
 #center{
     text-align: center;
 }
+
 
 
 
@@ -48,7 +70,8 @@
     background-color: #F4F2EE;
     list-style-type: none;
     width: 150px;
-    margin:5px;
+    margin:9px;
+    margin-left: 70px;
     padding: 10px;
 }
 
@@ -65,24 +88,34 @@
                 padding: 5px;
 }
 
+#logo{
+    position: relative;
+    float: left;
+    display: inline;
+    margin: -130px 0px 20px 40px;
+}
 .linksection{
     background-color: #F4F2EE;
     border-style: outset;
 }
 
+
+
 #main-nav{
-    margin-left: 138px;
+    margin-left: 170px;
     list-style-type: none;
-} 
+}
+
 
 #main-nav li{
     float: left;
+    position: relative;
     margin-right: 5px;
     font: 16px italic Verdana, sans serif;
     text-decoration: none;
 }
 
-#main-nav li a{
+#main-nav a{
     
     display: block;
     background-color: #F4F2EE;
@@ -91,12 +124,44 @@
     color: #000000;
 }
 
-#main-nav li a:hover{
+#main-nav a:hover{
     background-color: #ffffff;
     text-decoration: none;
     color: #000000;
 }
- 
+
+#main-nav ol{
+    background:#fff; 
+    background:rgba(255,255,255,0); 
+    list-style:none;
+    position:absolute;
+    left:-9999px;
+}
+
+#main-nav ol li{
+    padding-top: 1px;
+    float: none;
+}
+
+#main-nav ol a{
+    white-space: nowrap;
+}
+
+#main-nav li:hover ol{
+    left: 0;
+}
+
+#main-nav li:hover a{
+    background: #ffffff;
+}
+
+#main-nav li:hover ol a{
+    text-decoration: none;
+}
+
+#main-nav li:hover ol li a:hover{
+    background: #ffffff;
+}
 
 #navigation{
     margin-left: 138px;
@@ -124,17 +189,25 @@
     color: #000000;
 }
 
+.nav{
+    background-color: #F4F2EE;
+}
+
 .piedpage{
     margin-top: 12px;
 }
 
+
+
+
 .redline    {
         background-color: #C40C1D;
-        
         height: 5px;
 }
 
+
 #size{
+    margin:0px;
     width:960px;
     height:150px;
 }
@@ -151,5 +224,6 @@
     font-size: 20px;
     text-align: center;
 }
+
 
 
