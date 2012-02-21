@@ -1,7 +1,7 @@
 .background{
     background-color: #F2F2F2;
     margin-top: 30px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     padding: 10px;
 }
@@ -25,6 +25,32 @@
     margin-left: 144px;
 }
 
+#borderright{
+    border-right-style: inset;
+    border-right-color: #C1C1C1;
+}
+
+#carousel {
+	margin: 0 0 0 0;
+	width: 400px;
+	height: 390px;
+	padding: 0;
+	/*overflow: scroll;*/
+	border: 2px solid #999;
+}
+#carousel ul {
+	list-style: none;
+	width: 1500px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+/*#carousel li {
+	display: inline;
+	float: left;
+}*/
+
+
 #color{
     background-color:  #F4F2EE;
 }
@@ -32,7 +58,6 @@
 #center{
     text-align: center;
 }
-
 
 
 .gallerysection{
@@ -47,15 +72,17 @@
 #hnavbar{
     background-color: #F4F2EE;
     list-style-type: none;
-    width: 150px;
-    margin:5px;
-    padding: 10px;
+    width: 160px;
+    margin:9px;
+    margin-left: 70px;
+    padding: 6px;
+    text-align: center;
 }
 
 #hnavbar ol{  		
        	    color: #F4F2EE;
        	    border-bottom: 3px solid black;
-       	    font-size: 14px;
+       	    font-size: 18px;
               
 }
 
@@ -65,24 +92,7 @@
                 padding: 5px;
 }
 
-.linksection{
-    background-color: #F4F2EE;
-    border-style: outset;
-}
-
-#main-nav{
-    margin-left: 138px;
-    list-style-type: none;
-} 
-
-#main-nav li{
-    float: left;
-    margin-right: 5px;
-    font: 16px italic Verdana, sans serif;
-    text-decoration: none;
-}
-
-#main-nav li a{
+#hnavbar a{
     
     display: block;
     background-color: #F4F2EE;
@@ -91,12 +101,108 @@
     color: #000000;
 }
 
-#main-nav li a:hover{
+#hnavbar a:hover{
+    background-color: #C1C1C1;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#justify{
+    text-align: justify;
+}
+
+#justify2{
+    text-align: justify;
+    margin-left: 20px;
+    width: 650px;
+}
+
+#justify3{
+    text-align: justify;
+    margin-left: 40px;
+    width: 655px;
+}
+
+
+
+
+
+#logo{
+    position: relative;
+    float: left;
+    display: inline;
+    margin: -130px 0px 20px 40px;
+}
+.linksection{
+    background-color: #F4F2EE;
+}
+
+
+
+#main-nav{
+    margin-left: 170px;
+    list-style-type: none;
+}
+
+
+#main-nav li{
+    float: left;
+    position: relative;
+    margin-right: 2px;
+    font: 16px italic Verdana, sans serif;
+    text-decoration: none;
+}
+
+
+#main-nav a{
+    
+    display: block;
+    background-color: #F4F2EE;
+    border: 1px solid #F4F2EE;
+    padding: .5em;
+    color: #000000;
+}
+
+#main-nav a:hover{
     background-color: #ffffff;
     text-decoration: none;
     color: #000000;
 }
- 
+
+/*
+#main-nav ol{
+    background:#fff; 
+    background:rgba(255,255,255,0); 
+    list-style:none;
+    position:absolute;
+    left:-9999px;
+}
+
+#main-nav ol li{
+    padding-top: 1px;
+    float: none;
+}
+
+#main-nav ol a{
+    white-space: nowrap;
+}
+
+#main-nav li:hover ol{
+    left: 0;
+}
+
+#main-nav li:hover a{
+    background: #ffffff;
+}
+
+#main-nav li:hover ol a{
+    text-decoration: none;
+}
+
+#main-nav li:hover ol li a:hover{
+    background: #ffffff;
+}*/
+
 
 #navigation{
     margin-left: 138px;
@@ -124,15 +230,46 @@
     color: #000000;
 }
 
+.nav{
+    background-color: #F4F2EE;
+}
+
 .piedpage{
     margin-top: 12px;
 }
 
+
+#placement{
+    margin-top: 9px;
+}
+
+#placement1{
+    margin-top: 9px;
+    margin-left: 60px;
+}
+
+
+
+#placement2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+#redbackground{
+    background-color: #C40C1D;
+    text-align: center;
+    color:#ffffff;
+    margin:25px;
+    padding:10px;
+    font-size: large;
+}
+
 .redline    {
         background-color: #C40C1D;
-        
         height: 5px;
 }
+
 
 #size{
     width:960px;
@@ -151,5 +288,46 @@
     font-size: 20px;
     text-align: center;
 }
+
+table, th, td
+{
+border: 1px solid black;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
+
+table 
+{
+width:100%;
+}
+th
+{
+height:50px;
+}
+
+table, td, th
+{
+border:1px solid #000080;
+}
+th
+{
+background-color:#C0C9E0;
+color:#000080;
+}
+
+td
+{
+padding:15px;
+}
+
+
 
 
