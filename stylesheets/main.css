@@ -1,0 +1,155 @@
+.background{
+    background-color: #F2F2F2;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.background p{
+    font-family: verdana;
+}
+
+#black{
+    color: black;
+}
+
+#bluecolor{
+    color: #000080;
+    text-align: center;
+}
+
+#border{
+    border: 1px solid black;
+    width: 630px;
+    margin-left: 144px;
+}
+
+#color{
+    background-color:  #F4F2EE;
+}
+
+#center{
+    text-align: center;
+}
+
+
+
+.gallerysection{
+    background-color: #C40C1D;
+}
+
+.greyline{
+    background-color: #C1C1C1;
+    height: 5px;
+}
+
+#hnavbar{
+    background-color: #F4F2EE;
+    list-style-type: none;
+    width: 150px;
+    margin:5px;
+    padding: 10px;
+}
+
+#hnavbar ol{  		
+       	    color: #F4F2EE;
+       	    border-bottom: 3px solid black;
+       	    font-size: 14px;
+              
+}
+
+
+#hnavbar ol li{
+                margin: 5px;
+                padding: 5px;
+}
+
+.linksection{
+    background-color: #F4F2EE;
+    border-style: outset;
+}
+
+#main-nav{
+    margin-left: 138px;
+    list-style-type: none;
+} 
+
+#main-nav li{
+    float: left;
+    margin-right: 5px;
+    font: 16px italic Verdana, sans serif;
+    text-decoration: none;
+}
+
+#main-nav li a{
+    
+    display: block;
+    background-color: #F4F2EE;
+    border: 1px solid #F4F2EE;
+    padding: .5em;
+    color: #000000;
+}
+
+#main-nav li a:hover{
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #000000;
+}
+ 
+
+#navigation{
+    margin-left: 138px;
+    margin-top:30px;
+    list-style-type: none;
+} 
+
+#navigation li{
+    float: left;
+    margin-right: 5px;
+    font: 16px italic Verdana, sans serif;
+}
+
+#navigation li a{
+    display: block;
+    background-color: #C0C9E0;
+    border: 1px solid #C0C9E0;
+    padding: .5em;
+    color: #000080;
+}
+
+#navigation li a:hover{
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #000000;
+}
+
+.piedpage{
+    margin-top: 12px;
+}
+
+.redline    {
+        background-color: #C40C1D;
+        
+        height: 5px;
+}
+
+#size{
+    width:960px;
+    height:150px;
+}
+
+.span12 h1{
+    font-family: italic verdana;
+    font-size: 25px;
+    text-align: center;
+    margin-top:5px;
+}
+
+.span12 h3{
+    font-family: italic verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+
