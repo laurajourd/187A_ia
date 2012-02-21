@@ -25,6 +25,11 @@
     margin-left: 144px;
 }
 
+#borderright{
+    border-right-style: inset;
+    border-right-color: #C1C1C1;
+}
+
 #carousel {
 	margin: 0 0 0 0;
 	width: 400px;
@@ -53,9 +58,6 @@
 #center{
     text-align: center;
 }
-
-
-
 
 .gallerysection{
     background-color: #C40C1D;
@@ -96,7 +98,6 @@
 }
 .linksection{
     background-color: #F4F2EE;
-    border-style: outset;
 }
 
 
@@ -110,7 +111,7 @@
 #main-nav li{
     float: left;
     position: relative;
-    margin-right: 5px;
+    margin-right: 2px;
     font: 16px italic Verdana, sans serif;
     text-decoration: none;
 }
@@ -129,7 +130,7 @@
     text-decoration: none;
     color: #000000;
 }
-
+/*
 #main-nav ol{
     background:#fff; 
     background:rgba(255,255,255,0); 
@@ -161,7 +162,7 @@
 
 #main-nav li:hover ol li a:hover{
     background: #ffffff;
-}
+}*/
 
 #navigation{
     margin-left: 138px;
@@ -197,8 +198,24 @@
     margin-top: 12px;
 }
 
+#placement{
+    margin-top: 9px;
+}
+
+#placement2{
+    margin-top: 20px;
+    text-align: center;
+}
 
 
+#redbackground{
+    background-color: #C40C1D;
+    text-align: center;
+    color:#ffffff;
+    margin:25px;
+    padding:10px;
+    font-size: large;
+}
 
 .redline    {
         background-color: #C40C1D;
@@ -207,7 +224,6 @@
 
 
 #size{
-    margin:0px;
     width:960px;
     height:150px;
 }
