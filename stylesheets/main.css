@@ -1,7 +1,7 @@
 .background{
     background-color: #F2F2F2;
     margin-top: 30px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     padding: 10px;
 }
@@ -71,16 +71,17 @@
 #hnavbar{
     background-color: #F4F2EE;
     list-style-type: none;
-    width: 150px;
+    width: 160px;
     margin:9px;
     margin-left: 70px;
-    padding: 10px;
+    padding: 6px;
+    text-align: center;
 }
 
 #hnavbar ol{  		
        	    color: #F4F2EE;
        	    border-bottom: 3px solid black;
-       	    font-size: 14px;
+       	    font-size: 18px;
               
 }
 
@@ -89,6 +90,41 @@
                 margin: 5px;
                 padding: 5px;
 }
+
+#hnavbar a{
+    
+    display: block;
+    background-color: #F4F2EE;
+    border: 1px solid #F4F2EE;
+    padding: .5em;
+    color: #000000;
+}
+
+#hnavbar a:hover{
+    background-color: #C1C1C1;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#justify{
+    text-align: justify;
+}
+
+#justify2{
+    text-align: justify;
+    margin-left: 20px;
+    width: 650px;
+}
+
+#justify3{
+    text-align: justify;
+    margin-left: 40px;
+    width: 655px;
+}
+
+
+
+
 
 #logo{
     position: relative;
@@ -202,6 +238,13 @@
     margin-top: 9px;
 }
 
+#placement1{
+    margin-top: 9px;
+    margin-left: 60px;
+}
+
+
+
 #placement2{
     margin-top: 20px;
     text-align: center;
@@ -240,6 +283,46 @@
     font-size: 20px;
     text-align: center;
 }
+
+table, th, td
+{
+border: 1px solid black;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
+
+table 
+{
+width:100%;
+}
+th
+{
+height:50px;
+}
+
+table, td, th
+{
+border:1px solid #000080;
+}
+th
+{
+background-color:#C0C9E0;
+color:#000080;
+}
+
+td
+{
+padding:15px;
+}
+
 
 
 
