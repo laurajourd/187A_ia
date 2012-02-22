@@ -1,13 +1,26 @@
 .background{
     background-color: #F2F2F2;
     margin-top: 30px;
-    border: 2px solid black;
+    border: 2px solid #000080;
     border-radius: 15px;
     padding: 10px;
 }
 
 .background p{
     font-family: verdana;
+}
+
+.background2{
+    background-color: #C0C9E0;
+    margin-top: 30px;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.background2 p{
+    font-family: verdana;
+    font-size: small;
 }
 
 #black{
@@ -19,6 +32,8 @@
     text-align: center;
 }
 
+
+
 #border{
     border: 1px solid black;
     width: 630px;
@@ -28,13 +43,6 @@
 #borderright{
     border-right-style: inset;
     border-right-color: #C1C1C1;
-}
-
-#bstore	{
-    display: block;
-    margin-left: 25px;
-    margin-right: 10px;
-    margin-top: 10px;
 }
 
 #carousel {
@@ -66,30 +74,7 @@
     text-align: center;
 }
 
-#dlbstore {
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: medium;
-    margin-top: 10px;
 
-}
-
-#dlsports {
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: medium;
-    margin-top: 10px;
-}
-
-#dlulink {
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: medium;
-    margin-top: 10px;
-}
 .gallerysection{
     background-color: #C40C1D;
 }
@@ -271,20 +256,25 @@
 
 #placement{
     margin-top: 9px;
+    text-align: justify;
+    width: 800px;
 }
 
 #placement1{
     margin-top: 9px;
     margin-left: 60px;
+    text-align: justify;
+    width: 680px;
 }
-
-
 
 #placement2{
-    margin-top: 20px;
-    text-align: center;
+    margin-top: 9px;
 }
 
+#placement3{
+    margin-top: 9px;
+    margin-left: 66px;
+}
 
 #redbackground{
     background-color: #C40C1D;
@@ -319,14 +309,6 @@
     text-align: center;
 }
 
-#sports {
-    display: block;
-    margin-left: 25px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-top: -20px;
-}
-
 table, th, td
 {
 border: 1px solid black;
@@ -344,7 +326,7 @@ border: 1px solid black;
 
 table 
 {
-width:940px;
+width:960px;
 }
 th
 {
@@ -367,12 +349,6 @@ padding:5px;
 
 }
 
-#ulink{
-    display: block;
-    margin-left: 25px;
-    margin-right: 10px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
+
 
 

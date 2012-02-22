@@ -10,5 +10,10 @@ $(document).ready(function() {
     Simple image gallery. Use default settings
   */
   $('.fancybox').fancybox();
+  
+  /*gallery home page*/
+  $('.myCarousel').carousel({
+  interval: 2000
+})
 
 });
