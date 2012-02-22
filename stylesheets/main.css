@@ -59,6 +59,7 @@
     text-align: center;
 }
 
+
 .gallerysection{
     background-color: #C40C1D;
 }
@@ -152,6 +153,7 @@
     text-decoration: none;
 }
 
+
 #main-nav a{
     
     display: block;
@@ -166,6 +168,7 @@
     text-decoration: none;
     color: #000000;
 }
+
 /*
 #main-nav ol{
     background:#fff; 
@@ -200,6 +203,7 @@
     background: #ffffff;
 }*/
 
+
 #navigation{
     margin-left: 138px;
     margin-top:30px;
@@ -233,6 +237,7 @@
 .piedpage{
     margin-top: 12px;
 }
+
 
 #placement{
     margin-top: 9px;
