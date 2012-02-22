@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/competitive_analysis_notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage_elements.html" />
+      <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\competitive_analysis_notes.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -20,16 +23,37 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="competitive_analysis_notes.txt" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/competitive_analysis_notes.txt">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="96" column="14" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.35588634">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="187A_ia" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="competitive_analysis_notes.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/competitive_analysis_notes.html">
+      <file leaf-file-name="homepage_elements.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homepage_elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="20" selection-start="1346" selection-end="1346" vertical-scroll-proportion="-19.26923">
-              <folding />
+            <state line="204" column="30" selection-start="7821" selection-end="7821" vertical-scroll-proportion="2.4087949">
+              <folding>
+                <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="200" column="23" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.47394136">
+            <state line="133" column="16" selection-start="6247" selection-end="6247" vertical-scroll-proportion="-19.615385">
               <folding />
             </state>
           </provider>
@@ -102,13 +126,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/competitive_analysis_notes.html" />
         <option value="$PROJECT_DIR$/scenario_template.html" />
         <option value="$PROJECT_DIR$/personas.html" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/note_to_self" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/competitive_analysis_notes.txt" />
+        <option value="$PROJECT_DIR$/competitive_analysis_notes.html" />
       </list>
     </option>
   </component>
@@ -265,7 +290,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26431718" sideWeight="0.6713092" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26431718" sideWeight="0.9957806" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -395,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/competitive_analysis_notes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="20" selection-start="1346" selection-end="1346" vertical-scroll-proportion="-19.26923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/note_to_self">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
@@ -409,10 +427,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/competitive_analysis_notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="14" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.35588634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="23" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.47394136">
+        <state line="133" column="16" selection-start="6247" selection-end="6247" vertical-scroll-proportion="-19.615385">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="30" selection-start="7821" selection-end="7821" vertical-scroll-proportion="2.4087949">
+          <folding>
+            <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
