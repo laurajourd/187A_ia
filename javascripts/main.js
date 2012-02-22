@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
   /*toggle visibility*/
-    $(".title").click(function() {
-        $(".content").toggle('blind');
+    $(".toggle p.title").click(function() {
+        $(this).next().toggle('blind');
     });
 
 
