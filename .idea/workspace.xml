@@ -4,7 +4,6 @@
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note_to_self" afterPath="$PROJECT_DIR$/note_to_self" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="23" selection-start="6462" selection-end="6462" vertical-scroll-proportion="0.38762215">
+            <state line="200" column="23" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.47394136">
               <folding />
             </state>
           </provider>
@@ -412,7 +411,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="23" selection-start="6462" selection-end="6462" vertical-scroll-proportion="0.38762215">
+        <state line="200" column="23" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.47394136">
           <folding />
         </state>
       </provider>
