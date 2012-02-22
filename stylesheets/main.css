@@ -30,6 +30,13 @@
     border-right-color: #C1C1C1;
 }
 
+#bstore	{
+    display: block;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
 #carousel {
 	margin: 0 0 0 0;
 	width: 400px;
@@ -59,7 +66,30 @@
     text-align: center;
 }
 
+#dlbstore {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: medium;
+    margin-top: 10px;
 
+}
+
+#dlsports {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: medium;
+    margin-top: 10px;
+}
+
+#dlulink {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: medium;
+    margin-top: 10px;
+}
 .gallerysection{
     background-color: #C40C1D;
 }
@@ -289,6 +319,14 @@
     text-align: center;
 }
 
+#sports {
+    display: block;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
 table, th, td
 {
 border: 1px solid black;
@@ -306,7 +344,7 @@ border: 1px solid black;
 
 table 
 {
-width:960px;
+width:940px;
 }
 th
 {
@@ -329,6 +367,12 @@ padding:5px;
 
 }
 
-
+#ulink{
+    display: block;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
 
 
