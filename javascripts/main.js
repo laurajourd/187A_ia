@@ -1,6 +1,10 @@
 $(document).ready(function() {
 
-  /*Put your Javascript code here*/
+  /*toggle visibility*/
+    $(".title").click(function() {
+        $(".content").toggle('blind');
+    });
+
 
   /*
     Simple image gallery. Use default settings

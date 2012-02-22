@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toggle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/main.css" afterPath="$PROJECT_DIR$/stylesheets/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="$PROJECT_DIR$/javascripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note_to_self" afterPath="$PROJECT_DIR$/note_to_self" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +50,7 @@
       <file leaf-file-name="homepage_elements.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage_elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="204" column="30" selection-start="7821" selection-end="7821" vertical-scroll-proportion="-56.884617">
+            <state line="121" column="21" selection-start="4547" selection-end="4547" vertical-scroll-proportion="-73.88461">
               <folding>
                 <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -65,16 +68,16 @@
       <file leaf-file-name="note_to_self" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/note_to_self">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personas.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="personas.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="-10.461538">
+            <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.44299674">
               <folding />
             </state>
           </provider>
@@ -89,10 +92,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="249" column="23" selection-start="9751" selection-end="9751" vertical-scroll-proportion="-1.6026058">
+            <state line="34" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="-12.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="38" selection-start="129" selection-end="129" vertical-scroll-proportion="-1.36">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toggle.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toggle.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="6" selection-start="462" selection-end="462" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
@@ -127,10 +148,12 @@
         <option value="$PROJECT_DIR$/personas.html" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/note_to_self" />
         <option value="$PROJECT_DIR$/competitive_analysis_notes.txt" />
         <option value="$PROJECT_DIR$/competitive_analysis_notes.html" />
+        <option value="$PROJECT_DIR$/note_to_self" />
+        <option value="$PROJECT_DIR$/toggle.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascripts/main.js" />
       </list>
     </option>
   </component>
@@ -216,6 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascripts" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
   </component>
   <component name="RecentsManager">
@@ -280,14 +304,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="0" width="720" height="860" extended-state="0" />
+    <frame x="720" y="0" width="720" height="860" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26431718" sideWeight="0.9957806" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26431718" sideWeight="0.9957806" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -377,28 +401,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/college-parent.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/lib/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="3" selection-start="245" selection-end="245" vertical-scroll-proportion="-1.8859375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scenario_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="-12.423077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="-10.461538">
           <folding />
         </state>
       </provider>
@@ -417,13 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note_to_self">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/competitive_analysis_notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="14" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.35588634">
@@ -431,18 +429,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/note_to_self">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/homepage_elements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="30" selection-start="7821" selection-end="7821" vertical-scroll-proportion="-56.884617">
+        <state line="121" column="21" selection-start="4547" selection-end="4547" vertical-scroll-proportion="-73.88461">
           <folding>
             <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/toggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="462" selection-end="462" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="249" column="23" selection-start="9751" selection-end="9751" vertical-scroll-proportion="-1.6026058">
+        <state line="34" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="38" selection-start="129" selection-end="129" vertical-scroll-proportion="-1.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scenario_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/college-parent.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.44299674">
           <folding />
         </state>
       </provider>
