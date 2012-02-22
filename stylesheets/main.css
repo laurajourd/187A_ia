@@ -306,7 +306,7 @@ border: 1px solid black;
 
 table 
 {
-width:100%;
+width:940px;
 }
 th
 {
@@ -325,7 +325,8 @@ color:#000080;
 
 td
 {
-padding:15px;
+padding:5px;
+
 }
 
 
