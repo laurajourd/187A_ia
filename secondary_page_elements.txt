@@ -1,0 +1,81 @@
+Harvard University: About Harvard
+-header remains the same (white background)
+-breadcrumbs right above current page title (current page omitted, would be redundant)
+-3-column layout
+    left: vertical navigation, same content as in navigation
+          link to download harvard yard mobile app tour
+    middle: static image and some text
+    right: harvard gazette - top stories
+           harvard gazette - trending now
+           event promotion
+-extended footer remains the same (grey background)
+
+
+Stanford University: About Stanford
+-header same
+-three-column layout
+    left: map image and some text
+    middle: breadcrumbs
+            Stanford Facts & History
+            Visitor Information
+            Virtual Tours
+            Offices & Administration
+            News & Events
+            (not exactly the same as subnavigation titles)
+            (includes links, similar to louisiana page but slightly less inconsistent)
+    right: link to slideshow (thumbnail grid)
+           uncategorized links with descriptions
+-footer same (simple footer)
+
+
+Washington State University: About WSU
+-header same
+-smaller logo
+-left navigation:
+    WSU home
+    same titles as home, but only Research and WSU Life include subheadings
+    Contact Us
+-Follow us, Share, Print
+-static image
+-news
+-contact us
+-virtual tour, campus map, getting here
+-other campuses
+-simple footer
+
+
+JHU: About JHU
+-same header
+-breadcrumbs: "information about hopkins"
+-left navigation:
+    simplified version of main nav dropdown
+-content: static image
+    links with descriptions:
+           About The Johns Hopkins University
+           JHU Facts and Stats
+           Visitor Information
+           Calendars, Notices, and Announcements
+           Campus Directories
+-same extended footer
+
+
+
+
+Indy: About UIndy
+-same header
+-breadcrumbs
+-5 boxes layout:
+    main image and text
+    quick links & offices
+    Athletics and Recreation Center
+    Work at UIndy
+    Who Knew? (facts)
+-same extended footer
+
+
+
+UL Lafayette
+-header(sameish)
+-poorly organized links (listed in table)
+-right navigation: image, gateways, link to one research news article
+-footer(same)
