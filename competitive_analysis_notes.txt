@@ -1,0 +1,118 @@
+Homepage elements
+
+Harvard University
+(header, stays constant)
+-top navigation
+    Apply to Harvard
+    Faculty
+    Staff
+    Students
+    Alumni
+    Parents
+    Visitors
+    Media & Press
+    Search
+-main navigation w/ dropdown
+    logo
+    About Harvard
+    Admissions & Aid
+    Schools
+    Resources & Offices
+-mini navigation
+    Gazette News
+    Events
+    Contact Harvard
+    Give
+-(secondary pages include breadcrumbs beneath the header)
+-gallery with news items
+-featured events
+-"channels" tiles
+(footer)
+-harvard social (highlight: twitter, facebook)
+-harvard mobile (subscribe to gazette, more social networking)
+-logo, city, state, phone, feedback link
+-redirect links: arts, science, worldwide, community
+-trademark, copyright, privacy, accessibility, sitemap, contact
+
+breadcrumbs and side menu
+
+
+Stanford University
+(header)
+-logo, maps, A-Z index, "Search web or people"
+-main navigation w/ dropdown (must click bottom left)
+
+-link to slideshow (img changes on refresh)
+-upcoming events w/ link to calendar
+-upcoming sports w/ links to athletics site
+-news tidbits w/ link to more
+-stanford website showcase (auto slideshow)
+-gateways
+-quicklinks: schools, depts, hospitals, libraries, research
+-social networking buttons
+-footer nav: jobs, make a gift, emergency info, search, contact us, about this site, accreditation
+-city, state, zip, phone, terms of use, copyright
+breadcrumbs and side menu
+
+
+Johns Hopkins University
+-Main navigation
+    dropdown menu on hover
+-Search bar
+    Topics
+    People
+-Image gallery
+    Links to featured news items
+-News
+    3 thumbnail&title
+    link to more news
+-Quick links
+    events calendar
+    departments
+    social networking sites
+-Sitemap
+    matches top navigation
+    plus emergency information
+-Footer
+    Legal, Accessibility Statement, Contacts
+    City, State, Phone number
+    Redirect links: Johns Hopkins Medicine, myJH
+breadcrumbs and side menu
+
+Washington State University
+top: A-Z index, zzusis, Contact Us, search web/people
+header:
+-logo w/ slogan
+-additional campuses
+-quick links: application, jobs, events/calendars,
+    register for classes, visit, virtual tour, map
+    tickets/marketplace, contact us
+-social networking
+-news slideshow: learning, research, community
+    slides out to display full image and titles
+-main navigation (dropdown/hover)
+-news: titles only
+-portals: parents, alumni/friends, current students, fac/staff
+    plus athletics, Give to WSU
+    "Campaign"
+-accessibility, policies, rule making, copyright
+side menu, no breadcrumbs
+
+University of Indianapolis
+-top navigation (drop down/hover)
+-logo w/ slogan, search for content & people
+-portals: students, parents & family, alumni, friends & visitors, My UIndy
+    (defaults to parents&family!)
+-background image, description, link
+-Quick links (customized)
+-News
+-Calendar (month)
+-2 images and customized articles
+footer
+-map&directions
+-colleges, schools, centers, branch campus
+-need more info (contact)
+-social networking
+-address, phone #, link to directory
+uses breadcrumbs and side menu
+
