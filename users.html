@@ -39,7 +39,7 @@
 <body>
 <div class="container">
     <div class="row"><!--begin header-->
-        <div class="span12">
+        <div class="span12" id="top">
             <hr id="border"/>
             <h1>Information Architecture Redesign</h1>
 
@@ -113,13 +113,14 @@
     <!--end introw-->
 
     <div class="row" id="shelly"><!--ren-->
-        <div class="span12 background toggle">
-            <p class="title" id="bluecolor" style="font-weight:bold">Shelly McDaniel</p>
+        <div class="span12 background">
+            <p class="title" id="bluecolor" style="font-weight:bold;margin-bottom:0px">Shelly McDaniel</p>
+            <div id="shelly_" style="display:none">
+            <a class="collapseit" href="#top"><p style="text-align:right;margin-top:0px;padding-top:0px">[Back to top]</p></a><br />
 
-            <div id="shelly_"> <!--style="display:none"-->
                 <img src="images/users/prospie.png" style="float:left; margin-right:20px"/>
 
-                <p><br/>Shelly just started her senior year of high school and will be applying for
+                <p>Shelly just started her senior year of high school and will be applying for
                     colleges this Fall. She is considering the University of Louisiana, Lafayette because it is
                     in-state, which is important in terms of both distance and cost. She has watched her three older
                     siblings leave for college, and they all stayed close to home. She is very close with her family,
@@ -133,7 +134,7 @@
                     also begin the search for the elusive Mr. Right. </p>
 
             <div style="margin-left:20px"><!--scenarios-->
-                <div class="row span12" style="margin-top:10px">
+                <div class="row span12" style="margin-top:20px">
                     <h3 style="text-align:left;margin-bottom:5px">Scenario 1</h3>
 
                     <div style="margin-left:25px">
@@ -162,18 +163,18 @@
                             <div class="span6">
                                 <h4 style="text-align:left">User Steps</h4>
                                 <ol>
-                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
-                                    <li>Clicked on <a
+                                    <li>Go to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Click on <a
                                             href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
                                             target=_blank>Student Life</a> on primary navigation
                                     </li>
-                                    <li>Clicked on <a href="http://www.louisiana.edu/Academic/programs.shtml"
+                                    <li>Click on <a href="http://www.louisiana.edu/Academic/programs.shtml"
                                                       target=_blank>Academic
                                         Programs</a> link under "Academic Programs"
                                     </li>
-                                    <li>Went on right side to Departments by Alphabet: selected "L" for Law</li>
-                                    <li>Found Law, clicked on "(See Political Science)" link</li>
-                                    <li>Landed on <a href="http://pols.louisiana.edu/" target=_blank>Political Science
+                                    <li>Select "L" from the list of letters under "Departments by Alphabet"</li>
+                                    <li>Click on "(See Political Science)" link next to "Law"</li>
+                                    <li>Explore the <a href="http://pols.louisiana.edu/" target=_blank>Political Science
                                         Dept's website</a></li>
                                 </ol>
                             </div>
@@ -184,7 +185,7 @@
                 </div>
                 <!--end scenario1-->
 
-                <div class="row span12" style="margin-top:20px">
+                <div class="row span12" style="margin-top:50px">
                     <h3 style="text-align:left;margin-bottom:5px">Scenario 2</h3>
 
                     <div style="margin-left:25px">
@@ -216,29 +217,29 @@
                             <div class="span6">
                                 <h4 style="text-align:left">User Steps</h4>
                                 <ol>
-                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
-                                    <li>Clicked on <a
+                                    <li>Go to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Click on <a
                                             href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
                                             target=_blank>Student Life</a> on primary navigation
                                     </li>
-                                    <li>Under "Campus Organizations" clicked on <a href="http://ulstudentlife.com/home"
+                                    <li>Click on <a href="http://ulstudentlife.com/home"
                                                                                  target=_blank> Student Organization
-                                        Information</a></li>
-                                    <li>On the Student Organizations page, clicked on <a
+                                        Information</a></li> under "Campus Organizations"
+                                    <li>Click on <a
                                             href="http://ulstudentlife.com/join-an-organization" target=_blank>Join an
-                                        Organization</a></li>
-                                    <li>Clicked on <a href="http://ulstudentlife.com/organization-list" target=_blank>
+                                        Organization</a></li> on the main navigation of the Student Organizations website
+                                    <li>Click on <a href="http://ulstudentlife.com/organization-list" target=_blank>
                                         Organization List –alpha order</li>
-                                    <li>Used Command +F and typed in "Chess"</li>
+                                    <li>Use Command +F to search the page and type in "Chess"</li>
                                     <li>No result found</li>
-                                    <li>Went back to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
-                                    <li>Clicked on <a
+                                    <li>Type in "louisiana.edu" in the browser to get back to the <a href="http://www.louisiana.edu" target=_blank>main site</a></li>
+                                    <li>Click on <a
                                             href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
                                             target=_blank>Student Life</a> on primary navigation
                                     </li>
-                                    <li>Clicked <a href="http://www.louisiana.edu/AboutUs/Search.shtml" target=_blank>Search</a>
+                                    <li>Click <a href="http://www.louisiana.edu/AboutUs/Search.shtml" target=_blank>Search</a>
                                     </li>
-                                    <li>Typed in "chess club"</li>
+                                    <li>Type in "chess club"</li>
                                     <li>7 <a
                                             href="http://www.louisiana.edu/AboutUs/search_results.shtml?cx=015192998240096728733%3A5lj5al81ol8&cof=FORID%3A11&q=chess+club&sa=Search&siteurl=www.louisiana.edu%2FAboutUs%2FSearch.shtml&ref=www.louisiana.edu%2FAboutUs%2FLinksFor%2FCurrentStudents.shtml"
                                             target=_blank>results found</a> no chess club
@@ -249,7 +250,7 @@
                     </div><!--end scenario2 content-->
                 </div><!--end scenario2-->
 
-                <div class="row span12" style="margin-top:20px">
+                <div class="row span12" style="margin-top:50px">
                     <h3 style="text-align:left;margin-bottom:5px">Scenario 3</h3>
 
                     <div style="margin-left:25px">
@@ -257,12 +258,17 @@
                             <div class="span5">
                                 <h4 style="text-align:left">Scenario Context</h4>
 
-                                <p>Shelly's mother </p>
+                                <p>Shelly has decided to apply to UL Lafayette, and she knows that many
+                                    schools offer scholarships, in addition to all the private scholarships
+                                    out there. She definitely plans to apply for scholarships and file her FAFSA,
+                                    and she knows the FAFSA isn't available until after January 1st.
+                                    She isn't sure what scholarships
+                                    UL Lafayette offers, or when the deadlines are this year.</p>
                             </div>
                             <div class="span6">
                                 <h4 style="text-align:left">Scenario Question</h4>
 
-                                <p>Is there a chess club or organization I can join?</p>
+                                <p>What scholarships can Shelly apply for and how does she apply?</p>
                             </div>
                         </div>
                         <!--end scenario context and question-->
@@ -271,55 +277,50 @@
                             <div class="span5">
                                 <h4 style="text-align:left">User Task</h4>
 
-                                <p>Find a list of student organizations at UL Lafayette and search for
-                                    something related to chess.</p>
+                                <p>Find a list of scholarships and application instructions and deadlines.</p>
                             </div><!--end task-->
 
                             <div class="span6">
                                 <h4 style="text-align:left">User Steps</h4>
                                 <ol>
-                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
-                                    <li>Clicked on <a
-                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
-                                            target=_blank>Student Life</a> on primary navigation
+                                    <li>Go to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Click on link for
+                                        <a href="http://www.louisiana.edu/AboutUs/LinksFor/ProspectiveStudents.shtml">
+                                            Prospective Students</a></li>
+                                    <li>Click on link for <a href="http://admissions.louisiana.edu/basics/">
+                                        Freshman Students</a></li>
+                                    <li>Click on link for <a href="http://admissions.louisiana.edu/scholarships/">
+                                        Scholarships</a> under "Money Matters"</li>
+                                    <li>Click on link for
+                                        <a href="http://admissions.louisiana.edu/scholarships/senior.shtml">
+                                            High School Seniors
+                                        </a>
                                     </li>
-                                    <li>Under "Campus Organizations" clicked on <a href="http://ulstudentlife.com/home"
-                                                                                   target=_blank> Student Organization
-                                        Information</a></li>
-                                    <li>On the Student Organizations page, clicked on <a
-                                            href="http://ulstudentlife.com/join-an-organization" target=_blank>Join an
-                                        Organization</a></li>
-                                    <li>Clicked on <a href="http://ulstudentlife.com/organization-list" target=_blank>
-                                        Organization List –alpha order</li>
-                                    <li>Used Command +F and typed in "Chess"</li>
-                                    <li>No result found</li>
-                                    <li>Went back to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
-                                    <li>Clicked on <a
-                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
-                                            target=_blank>Student Life</a> on primary navigation
-                                    </li>
-                                    <li>Clicked <a href="http://www.louisiana.edu/AboutUs/Search.shtml" target=_blank>Search</a>
-                                    </li>
-                                    <li>Typed in "chess club"</li>
-                                    <li>7 <a
-                                            href="http://www.louisiana.edu/AboutUs/search_results.shtml?cx=015192998240096728733%3A5lj5al81ol8&cof=FORID%3A11&q=chess+club&sa=Search&siteurl=www.louisiana.edu%2FAboutUs%2FSearch.shtml&ref=www.louisiana.edu%2FAboutUs%2FLinksFor%2FCurrentStudents.shtml"
-                                            target=_blank>results found</a> no chess club
-                                    </li>
+
                                 </ol>
                             </div><!--end steps-->
+
                         </div><!--end task and steps-->
-                    </div><!--end scenario2 content-->
-                </div><!--end scenario2-->
+
+
+                    </div><!--end scenario3 content-->
+
+                </div><!--end scenario3-->
+
 
             </div><!--end scenarios-->
 
 
 
-
+            <div class="row">
+                <a href="#top" style="position:relative;left:-50px"><p style="text-align:right;margin-top:0px;padding-top:0px">[Back to top]</p></a>
+            </div>
 
             </div><!--end shelly content-->
+
         </div><!--end shelly-->
     </div><!--end shelly box-->
+
 
     <div class="row" id="charles"><!--laura-->
         <div class="span12 background">

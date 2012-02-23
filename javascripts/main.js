@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
   /*toggle visibility*/
-    $(".toggle p.title").click(function() {
-        $(this).next().toggle();
+    $(".collapseit").click(function() {
+        $(this.parentNode).css('display','none');
     });
 
     $('#_shelly').click(function(){
