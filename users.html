@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
-    <title>A Generic Page</title>
-    <meta name="description" content="something good should go here">
-    <meta name="author" content="your name should go here">
+    <title>User Personas and Scenarios</title>
+    <meta name="description"
+          content="five user personas with 3 scenarios each for UL Lafayette website information architecture redesign">
+    <meta name="author" content="Rachel Cusing, Laura Jourdain, Ren Nakanote">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <!-- Base Stylsheets http://twitter.github.com/bootstrap/ -->
-    <link rel="stylesheet" href="stylesheets/lib/bootstrap.css" >
-    <link rel="stylesheet" href="stylesheets/lib/jquery.fancybox.css" >
+    <link rel="stylesheet" href="stylesheets/lib/bootstrap.css">
+    <link rel="stylesheet" href="stylesheets/lib/jquery.fancybox.css">
+
 
     <!-- Your Stylesheets -->
-    <link rel="stylesheet" href="stylesheets/main.css" >
+    <link rel="stylesheet" href="stylesheets/main.css">
 
     <!--  jQuery http://jquery.com/ -->
     <script src="javascripts/lib/jquery-1.7.1.min.js"></script>
@@ -27,42 +29,340 @@
     <!-- Fancybox Lightbox http://fancyapps.com/fancybox/#examples -->
     <script src="javascripts/lib/jquery.fancybox.js"></script>
 
+
     <!-- Your Javascripts -->
     <script src="javascripts/main.js"></script>
 
-  </head>
 
-  <body>
-    <div class="container">
-        <div class="row"><!--begin header-->
-            <div class="span12">
-                <hr id="border"/>
-                <h1>Information Architecture Redesign</h1>
-                <h3><a href="http://www.louisiana.edu"><i><b>UL Lafayette</b></i></a></h3>
-                <hr id="border"/>
-            </div>
-        </div><!--end header-->
-        <div class="row"><!--begin navigation bar-->
-            <div class="span12">
-                <ul id="navigation">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="userpersonas.html"><i><b>Our Users</b></i></a></li>
-                    <li><a href="competitiveanalysis.html">Competitive Analysis</a></li>
-                    <li><a href=hardestDecisions.html">Hardest Decisions</a></li>
-                    <li><a href="redesign.html">Redesign</a></li>
-                    <li><a href="">Contact Us</a></li>
-                </ul>
-            </div>
-        </div><!--end navigation bar-->
+</head>
 
-        <div class="row"><!--begin main content-->
-            <div class="span12 background">
-                text
-            </div>
+<body>
+<div class="container">
+    <div class="row"><!--begin header-->
+        <div class="span12">
+            <hr id="border"/>
+            <h1>Information Architecture Redesign</h1>
+
+            <h3><a href="http://www.louisiana.edu"><i><b>UL Lafayette</b></i></a></h3>
+            <hr id="border"/>
         </div>
+    </div>
+    <!--end header-->
+    <div class="row"><!--begin navigation bar-->
+        <div class="span12">
+            <ul id="navigation">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="userpersonas.html"><i><b>Our Users</b></i></a></li>
+                <li><a href="competitiveanalysis.html">Competitive Analysis</a></li>
+                <li><a href="hardestDecisions.html">Hardest Decisions</a></li>
+                <li><a href="redesign.html">Redesign</a></li>
+                <li><a href="">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--end navigation bar-->
+
+    <div class="row">
+        <div class="span12 background">
+            <p id="bluecolor" style="font-weight:bold">Our Users</p>
+
+            <div>
+                <a href="#shelly" id="_shelly">
+                    <span style="float:left">
+                    <img src="images/users/prospie_thumb.png" style="margin-right:15px; margin-left:20px"/>
+                    <p style="text-align:center">Shelly McDaniel<br/>Prospective Student</p>
+                    </span>
+                </a>
+
+                <a href="#charles" id="_charles">
+                    <span style="float:left">
+                    <img class="thumb" src="images/users/intlstudent_thumb.png"
+                         style="height:138px;width:138px;margin-right:25px;margin-left:20px"/>
+                    <p style="text-align:center; position:relative; left:-5px">Charles Lacarin<br/>International Student
+                    </p>
+                    </span>
+                </a>
+
+                <a href="#nico" id="_nico">
+                    <span style="float:left">
+                    <img class="thumb" src="images/users/postdoc_thumb.png"
+                         style="width:100px; height:138px; margin-left:30px;margin-right:25px"/>
+                    <p style="text-align:center">Nicolas Fedorczak<br/>Postdoctoral Researcher </p>
+                    </span>
+                </a>
+
+                <a href="#mary" id="_mary">
+                    <span style="float:left">
+                    <img class="thumb" src="images/users/college-parent.jpg"
+                         style="width:110px; height:138px; margin-left:25px; margin-right:25px"/>
+                    <p style="text-align:center">Mary McDaniel<br/>Parent</p>
+                    </span>
+                </a>
+
+                <a href="#abdul" id="_abdul">
+                    <img class="thumb" src="images/users/faculty.png"
+                         style="height:138px; width:180px; margin-left:20px; margin-right:20px"/>
+
+                    <p style="text-align:center">Dr Abdul Mohammad<br/>Professor</p>
+                </a>
+            </div>
+            <!--end thumbs-->
+        </div>
+        <!--end box-->
+    </div>
+    <!--end introw-->
+
+    <div class="row" id="shelly"><!--ren-->
+        <div class="span12 background toggle">
+            <p class="title" id="bluecolor" style="font-weight:bold">Shelly McDaniel</p>
+
+            <div id="shelly_"> <!--style="display:none"-->
+                <img src="images/users/prospie.png" style="float:left; margin-right:20px"/>
+
+                <p><br/>Shelly just started her senior year of high school and will be applying for
+                    colleges this Fall. She is considering the University of Louisiana, Lafayette because it is
+                    in-state, which is important in terms of both distance and cost. She has watched her three older
+                    siblings leave for college, and they all stayed close to home. She is very close with her family,
+                    and although she won't admit it to her friends, she's looking forward to bringing home her
+                    laundry and having her mom pack her copious amounts of food to bring back with her. </p>
+
+                <p>Shelly's grandfather taught her how to play chess when she was four years old, and she is now
+                    a nationally ranked chess player. She is extremely interested in the legal system and hopes
+                    to become a lawyer, although she is unsure exactly what type of law she wants to specialize in.
+                    She is equally ambitious in her social goals, hoping not only to meet her future bridesmaids but
+                    also begin the search for the elusive Mr. Right. </p>
+
+            <div style="margin-left:20px"><!--scenarios-->
+                <div class="row span12" style="margin-top:10px">
+                    <h3 style="text-align:left;margin-bottom:5px">Scenario 1</h3>
+
+                    <div style="margin-left:25px">
+                        <div class="row">
+                            <div class="span5">
+                                <h4 style="text-align:left">Scenario Context</h4>
+
+                                <p>Shelly is comparing the pre-law programs at each of the different colleges she is
+                                    interested in applying to. </p>
+                            </div>
+                            <div class="span6">
+                                <h4 style="text-align:left">Scenario Question</h4>
+
+                                <p>What kind of pre-law programs exist at the University of Louisiana?</p>
+                            </div>
+                        </div>
+                        <!--end scenario context and question-->
+
+                        <div class="row" style="margin-top:15px">
+                            <div class="span5">
+                                <h4 style="text-align:left">User Task</h4>
+
+                                <p>Find out what pre-law program is offered at the University of Louisiana.</p>
+                            </div>
+
+                            <div class="span6">
+                                <h4 style="text-align:left">User Steps</h4>
+                                <ol>
+                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Clicked on <a
+                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
+                                            target=_blank>Student Life</a> on primary navigation
+                                    </li>
+                                    <li>Clicked on <a href="http://www.louisiana.edu/Academic/programs.shtml"
+                                                      target=_blank>Academic
+                                        Programs</a> link under "Academic Programs"
+                                    </li>
+                                    <li>Went on right side to Departments by Alphabet: selected "L" for Law</li>
+                                    <li>Found Law, clicked on "(See Political Science)" link</li>
+                                    <li>Landed on <a href="http://pols.louisiana.edu/" target=_blank>Political Science
+                                        Dept's website</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                        <!--end task and steps-->
+                    </div>
+                    <!--end scenario1 content-->
+                </div>
+                <!--end scenario1-->
+
+                <div class="row span12" style="margin-top:20px">
+                    <h3 style="text-align:left;margin-bottom:5px">Scenario 2</h3>
+
+                    <div style="margin-left:25px">
+                        <div class="row">
+                            <div class="span5">
+                                <h4 style="text-align:left">Scenario Context</h4>
+
+                                <p>Shelly is at her grandparents' house for Sunday dinner, and her grandfather
+                                mentions that he played in many intercollegiate chess tournaments as a college
+                                student. Shelly wonders if the University of Louisiana, Lafayette has a chess
+                                team.</p>
+                            </div>
+                            <div class="span6">
+                                <h4 style="text-align:left">Scenario Question</h4>
+
+                                <p>Is there a chess club or organization I can join?</p>
+                            </div>
+                        </div>
+                        <!--end scenario context and question-->
+
+                        <div class="row"  style="margin-top:15px">
+                            <div class="span5">
+                                <h4 style="text-align:left">User Task</h4>
+
+                                <p>Find a list of student organizations at UL Lafayette and search for
+                                something related to chess.</p>
+                            </div><!--end task-->
+
+                            <div class="span6">
+                                <h4 style="text-align:left">User Steps</h4>
+                                <ol>
+                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Clicked on <a
+                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
+                                            target=_blank>Student Life</a> on primary navigation
+                                    </li>
+                                    <li>Under "Campus Organizations" clicked on <a href="http://ulstudentlife.com/home"
+                                                                                 target=_blank> Student Organization
+                                        Information</a></li>
+                                    <li>On the Student Organizations page, clicked on <a
+                                            href="http://ulstudentlife.com/join-an-organization" target=_blank>Join an
+                                        Organization</a></li>
+                                    <li>Clicked on <a href="http://ulstudentlife.com/organization-list" target=_blank>
+                                        Organization List –alpha order</li>
+                                    <li>Used Command +F and typed in "Chess"</li>
+                                    <li>No result found</li>
+                                    <li>Went back to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Clicked on <a
+                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
+                                            target=_blank>Student Life</a> on primary navigation
+                                    </li>
+                                    <li>Clicked <a href="http://www.louisiana.edu/AboutUs/Search.shtml" target=_blank>Search</a>
+                                    </li>
+                                    <li>Typed in "chess club"</li>
+                                    <li>7 <a
+                                            href="http://www.louisiana.edu/AboutUs/search_results.shtml?cx=015192998240096728733%3A5lj5al81ol8&cof=FORID%3A11&q=chess+club&sa=Search&siteurl=www.louisiana.edu%2FAboutUs%2FSearch.shtml&ref=www.louisiana.edu%2FAboutUs%2FLinksFor%2FCurrentStudents.shtml"
+                                            target=_blank>results found</a> no chess club
+                                    </li>
+                                </ol>
+                            </div><!--end steps-->
+                        </div><!--end task and steps-->
+                    </div><!--end scenario2 content-->
+                </div><!--end scenario2-->
+
+                <div class="row span12" style="margin-top:20px">
+                    <h3 style="text-align:left;margin-bottom:5px">Scenario 3</h3>
+
+                    <div style="margin-left:25px">
+                        <div class="row">
+                            <div class="span5">
+                                <h4 style="text-align:left">Scenario Context</h4>
+
+                                <p>Shelly's mother </p>
+                            </div>
+                            <div class="span6">
+                                <h4 style="text-align:left">Scenario Question</h4>
+
+                                <p>Is there a chess club or organization I can join?</p>
+                            </div>
+                        </div>
+                        <!--end scenario context and question-->
+
+                        <div class="row"  style="margin-top:15px">
+                            <div class="span5">
+                                <h4 style="text-align:left">User Task</h4>
+
+                                <p>Find a list of student organizations at UL Lafayette and search for
+                                    something related to chess.</p>
+                            </div><!--end task-->
+
+                            <div class="span6">
+                                <h4 style="text-align:left">User Steps</h4>
+                                <ol>
+                                    <li>Landed on <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Clicked on <a
+                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
+                                            target=_blank>Student Life</a> on primary navigation
+                                    </li>
+                                    <li>Under "Campus Organizations" clicked on <a href="http://ulstudentlife.com/home"
+                                                                                   target=_blank> Student Organization
+                                        Information</a></li>
+                                    <li>On the Student Organizations page, clicked on <a
+                                            href="http://ulstudentlife.com/join-an-organization" target=_blank>Join an
+                                        Organization</a></li>
+                                    <li>Clicked on <a href="http://ulstudentlife.com/organization-list" target=_blank>
+                                        Organization List –alpha order</li>
+                                    <li>Used Command +F and typed in "Chess"</li>
+                                    <li>No result found</li>
+                                    <li>Went back to <a href="http://www.louisiana.edu" target=_blank>Home Page</a></li>
+                                    <li>Clicked on <a
+                                            href="http://www.louisiana.edu/AboutUs/LinksFor/CurrentStudents.shtml"
+                                            target=_blank>Student Life</a> on primary navigation
+                                    </li>
+                                    <li>Clicked <a href="http://www.louisiana.edu/AboutUs/Search.shtml" target=_blank>Search</a>
+                                    </li>
+                                    <li>Typed in "chess club"</li>
+                                    <li>7 <a
+                                            href="http://www.louisiana.edu/AboutUs/search_results.shtml?cx=015192998240096728733%3A5lj5al81ol8&cof=FORID%3A11&q=chess+club&sa=Search&siteurl=www.louisiana.edu%2FAboutUs%2FSearch.shtml&ref=www.louisiana.edu%2FAboutUs%2FLinksFor%2FCurrentStudents.shtml"
+                                            target=_blank>results found</a> no chess club
+                                    </li>
+                                </ol>
+                            </div><!--end steps-->
+                        </div><!--end task and steps-->
+                    </div><!--end scenario2 content-->
+                </div><!--end scenario2-->
+
+            </div><!--end scenarios-->
 
 
-    </div> <!-- end container -->
 
-  </body>
+
+
+            </div><!--end shelly content-->
+        </div><!--end shelly-->
+    </div><!--end shelly box-->
+
+    <div class="row" id="charles"><!--laura-->
+        <div class="span12 background">
+            <p id="bluecolor" style="font-weight:bold">Charles Lacarin</p>
+
+            <div id="charles_" style="display:none">blahblahblah</div>
+        </div>
+        <!--end charles-->
+    </div>
+    <!--end row-->
+
+    <div class="row" id="nico"><!--laura-->
+        <div class="span12 background">
+            <p id="bluecolor" style="font-weight:bold">Nicolas Fedorczak</p>
+
+            <div id="nico_" style="display:none">blahblahblah</div>
+        </div>
+        <!--end nico-->
+    </div>
+    <!--end row-->
+
+    <div class="row" id="mary"><!--rachel-->
+        <div class="span12 background">
+            <p id="bluecolor" style="font-weight:bold">Mary McDaniel</p>
+
+            <div id="mary_" style="display:none">blahblahblah</div>
+        </div>
+        <!--end mary-->
+    </div>
+    <!--end row-->
+
+    <div class="row" id="abdul"><!--ren-->
+        <div class="span12 background">
+            <p id="bluecolor" style="font-weight:bold">Dr Abdul Mohammad</p>
+
+            <div id="abdul_" style="display:none">blahblahblah</div>
+        </div>
+        <!--end abdul-->
+    </div>
+    <!--end row-->
+
+</div>
+<!-- end container -->
+
+</body>
 </html>

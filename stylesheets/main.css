@@ -6,7 +6,7 @@
     padding: 10px;
 }
 
-.background p{
+.background p li{
     font-family: verdana;
 }
 
@@ -27,7 +27,7 @@
     color: black;
 }
 
-.bluecolor{
+#bluecolor{
     color: #000080;
     text-align: center;
     background-color: #C0C9E0;
@@ -351,5 +351,8 @@ padding:5px;
 }
 
 
-
+.thumb{
+    height:100px;
+    width:100px;
+}
 

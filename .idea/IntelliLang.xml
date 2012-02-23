@@ -5,6 +5,10 @@
       <display-name>div/@style</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>span/@script</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("script")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </project>
 
