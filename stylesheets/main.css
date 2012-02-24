@@ -231,9 +231,9 @@
 }
 
 #main-nav a:hover{
-    background-color: #ffffff;
+    background-color: #C1C1C1;
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 #mapplace{
@@ -366,7 +366,7 @@
 
 
 #size{
-    width:960px;
+   width: 980px;
     height:150px;
 }
 
