@@ -11,4 +11,12 @@ $(document).ready(function() {
   */
   $('.fancybox').fancybox();
 
+  $('.myCarousel').carousel({
+    interval: 2000
+    
+    
 });
+
+});
+
+    
