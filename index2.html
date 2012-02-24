@@ -33,80 +33,178 @@
     <!-- Your Javascripts -->
     <script src="javascripts/main.js"></script>
 
-
-</script>
   </head>
 
   <body>
     <div class="container">
         <div class="row redline">
         </div>
-        <div class="row">
-            <img id="size" src="images/headbg.png">
+
+        <div class="row" style="width:980px">
+            <div><!--header background-->
+            <img id="size" src="images/headbg.png" style="width:980px">
+            </div>
+
             <div class="row">
                 <div class="span6">
                  <a href="http://wwww.louisiana.edu"><img id="logo" src="images/logo.png" height= 87px width= 99px></a>
                 </div>
-                <!--div class="span6">
-                    <p id="sub-nav">site map ~ contact us ~ search bar</p>
-                </div-->
-        </div>
-          
-          <div class="row nav">
-                <ul id="main-nav">
-                    <li id="borderright"><a href="index2.html"><i><b>Home</b></i></a></li>
-                    <li id="borderright"><a href="index2.html">About Louisiana Lafayette</a></li>
-                      <!--ul>
-                        <li><a href="index2.html">Admission</a></li>
-                        <li><a href="index2.html">Admission</a></li>
-                      </ul-->
-                    <li id="borderright"><a href=wf2.html>Admission</a></li>
-                    <li id="borderright"><a href=wf3.html>Academics</a></li>
-                    <li id="borderright"><a href=wf4.html>Research</a></li>
-                    <li><a href="wf5.html">Student Life</a></li>
-                </ul>
+
+                <div class="span6" >
+      
+                    <p id="mapplace"><a id="redcolor" href="">Map</a> | <a id="redcolor"  href="">A-Z Index</a> | <a id="redcolor"  href="">Contact</a></p>
+                  
+                   
+                    <form method="post" action="traitement.php">
+                      <p id="searchplace">
+                       <input style="float: left" type="text" name="searchbar" id="search" placeholder="Search web or people..." />
+                       <button type="submit" value="submit" class="search_button"><img  src="images/search.png" width=20 height=20></button>
+                      </p>
+                    </form>
+                    
+                </div>
+
             </div>
-        </div>
+        
+            <div class="row nav">
+              <ul class="nav pills" id="main-nav">
+                <li class="dropdown" id="menu1"><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html"><i><b>Home</b></i></a></li>
+                <li class="dropdown" id="menu1"><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html">About UL Lafayette</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">President's message</a></li>
+                    <li><a href="#">University Organizational Chart</a></li>
+                    <li><a href="#">History & Mission</a></li>
+                    <li><a href="#">Fast facts avout UL Lafayette</a></li>
+                    <li><a href="#">Map & Directions</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown" id="menu1"><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html">Admissions</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Undergraduate</a></li>
+                    <li><a href="#">Graduate</a></li>
+                    <li><a href="#">Professional</a></li>
+                    <li><a href="#">Continuing Education</a></li>
+                    <li><a href="#">Summer Session</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown" id="menu1"><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html">Academics</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Undergraduate and Graduate Programs</a></li>
+                    <li><a href="#">Departements and Disciplines</a></li>
+                    <li><a href="#">School</a></li>
+                    <li><a href="#">Distance Education</a></li>
+                    <li><a href="#">Academic calendar and courses</a></li>
+                    <li><a href="#">Academic support for students</a></li>
+                    <li><a href="#">Finances</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown" id="menu1"><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html">Research</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Sponsored Research</a></li>
+                    <li><a href="#">University research council</a></li>
+                    <li><a href="#">Offices & Resources</a></li>
+                    <li><a href="#">Distance Education</a></li>
+                    <li><a href="#">Centers & Laboratory</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown" ><a class="dropdown-toggle" data-toggle="dropdown" href="index2.html">Campus Life</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Housisng</a></li>
+                    <li><a href="#">Health & Counseling</a></li>
+                    <li><a href="#">Students Services</a></li>
+                    <li><a href="#">Campus Organizations</a></li>
+                    <li><a href="#">Arts & Culture</a></li>
+                    <li><a href="#">Athletics</a></li>
+                    <li><a href="#">Calendar</a></li>
+                    <li><a href="#">Area Profile</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+   
         <div class="row greyline">
-           </div>
+          </div>
         <div class="row gallerysection">
            <div class="span8">
-	      <div id="myCarousel" class="carousel">
-		<!-- Carousel items -->
-		<div class="carousel-inner">
-		<div class="active item"><img alt="" src="images/p1.jpg" width="500" height="213" />
-		  <p>This carousel has no padding applied to it so you won't see hints for the previous and next images. Also, the progress bar could be disabled by setting just one option on the plugin.</p></li>
-		</div>
-		<div class="item"><img alt="" src="images/p2.jpg" width="500" height="213" /><p>This is the caption for the second image. The height of the caption box is an option.</p></div>
-		<div class="item"><img alt="" src="images/p3.jpg" width="500" height="213" /></div>
-	      </div>
-    <!-- Carousel nav -->
-    </div>
-	     <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div>
-              <!--div id="carousel">
-              <ul>
-                <li><img alt="" src="images/p1.jpg" width="500" height="213" /><p>This carousel has no padding applied to it so you won't see hints for the previous and next images. Also, the progress bar could be disabled by setting just one option on the plugin.</p></li>
-                <li></li>
-                <li></li>
-              </ul>
-              </div-->
+
+              <div id="myCarousel" class="carousel">
+              <!-- Carousel items -->
+                <div class="carousel-inner">
+                  <div class="active item">
+                    <img src="images/gallery.jpg" width=655 height=100 />
+                    <div class="carousel-caption">
+                        <p><b>The Walk of Nonor</b> - <i>1 of 6</i></p>
+                        <p>The Walk of Honor is a tremendous undertaking that
+                        began with one man's idea - 1987 Alumni Association President Kenneth A. Ardoin.
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/music.jpg" width=655 height=400 />
+                    <div class="carousel-caption">
+                        <p><b>The Pride of Acadiana Band</b> - <i>2 of 6</i></p>
+                        <p>The Pride of Acadiana has been wearing the same uniforms for more than a decade, but change is coming for next years football season.
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/hall.jpg" width=655 height=400 />
+                    <div class="carousel-caption">
+                        <p><b>Stephens Hall</b> - <i>3 of 6</i></p>
+                        <p>Stephens Hall was named in honor of Dr. Edwin L. Stephens, the university�s first president. It was the first building on campus used solely as a library
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/nursing.jpg" width=655 height=400 />
+                    <div class="carousel-caption">
+                        <p><b>Nursing Program</b> - <i>4 of 6</i></p>
+                        <p>UL Lafayette has one of the largest traditional nursing programs in the country.
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/jerome.jpg" width=655 height=400 />
+                    <div class="carousel-caption">
+                        <p><b>Professor Malinowski</b> - <i>5 of 6</i></p>
+                        <p>Professor Jerome Malinowski teaches industrial design.
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/hall2.jpg" width=655 height=400 />
+                    <div class="carousel-caption">
+                        <p><b>Judice-Rickels Hall</b> - <i>6 of 6</i></p>
+                        <p>Judice-Rickels Hall is the home for the Honors Program. Judice-Rickels Hall was constructed as a mens' dorm in 1927.
+                        <i><a id="grey" href=""> Read more >></a></i></p>
+                    </div>
+                  </div>
+                </div>
+              <!-- Carousel nav -->
+              <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+              <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+            </div>
+
            </div>
            
            <div class="span4">
+            <div class="row">
+              <p id="center2"><b>GATEWAYS FOR...</b></p>
+            </div>
+            <div class="row">
             <ol id="hnavbar">
-              <li><a id="black" href=index2.html>Prospective Students</a></li>
-              <hr/>
-              <li><a id="black" href=index2.html>Current students</a></li>
-              <hr/>
-              <li><a id="black" href=index2.html>Faculty & Staff</a></li>
-              <hr/>
-              <li><a id="black" href=index2.html>Alumni & Donors</a></li>
-              <hr/>
-              <li><a id="black" href=index2.html>Visitors</a></li>
+              <li><a id="black" href=index2.html>> Prospective Students</a></li>
+              <hr id="bar"/>
+              <li><a id="black" href=index2.html>> Current students</a></li>
+              <hr id="bar"/>
+              <li><a id="black" href=index2.html>> Faculty & Staff</a></li>
+              <hr id="bar"/>
+              <li><a id="black" href=index2.html>> Alumni & Donors</a></li>
+              <hr id="bar"/>
+              <li><a id="black" href=index2.html>> Visitors</a></li>
 
             </ol>
+            </div>
            </div>
         </div>
         <div class="row greyline">
@@ -114,31 +212,90 @@
         <div class="row linksection">
           <div class="span4">
             <div class="row"><p id="redbackground">Direct Links</p></div>
-            <div class="row"><a href="http://gogle.com"><img src="images/sports.gif" id="sports" align="left" width=150px height=150px ></a> <p id="dlsports">Athletics</p></div>
-	    <div class="row"><a href="http://gogle.com"><img src="images/bstore.gif" id="bstore" align="left" width=150px height=150px></a> <p id="dlbstore">Bookstore</p></div>
-	    <div class="row"><a href="http://gogle.com"><img src="images/ulink.gif"  id="ulink"  align="left" width=150px height=150px></a> <p id="dlulink">U-link</p></div>
-	  </div>  
-          
+            <div class="row">
+              <div class="span4">
+                <img id="design4" src="images/biblio.jpg" width=267 height=20>
+              </div>
+            </div>
+            <br/>
+            <div class="row">
+              <div class="span4">
+                <p id="design3">- Go to the Library - </p>
+              </div>
+            </div>
+            <hr id="horizontal"/>
+            <div class="row">
+              <div class="span4">
+                <img src="images/ulink.gif" width=267 height=20>
+                </br>
+                <p id="center"><a id="design3" href="">>> Go to <b>UL</b>-link</a></p>
+              </div>
+            </div>
+            <hr id="horizontal"/>
+            <div class="row">
+              <div class="span4">
+                <p id="design">Athletics</p>
+              </div>
+            </div>
+            
+          </div>
           <div class="span4">
             <div class="row"><p id="redbackground">Calendar</p></div>
-            <div class="row"></div>
+            <div class="row">
+              <div class="span4">
+                <p id="design5"><b>3.2.12</b> - <i>Softball</i></p><p id="design">vs. Texas A&M-Corpus Christi</p><p id="design">4:00 PM - 
+                Lamson Park</p>
+              </div>
+            </div>
+            <hr id="horizontal"/>
+            <div class="row">
+              <div class="span4">
+                <p id="design">Wear the color of <b>Louisiana</b></p><p id="design"><b>Lafayette University</b>...</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="span1">
+                <img id="design2" src="images/cap.jpg" width=70 height=70>
+              </div>
+              <div class="row">
+              <div class="span4">
+                <p id="design">...<a id="blue" href=""> Visit our online shop ! </a></p>
+              </div>
+            </div>
             
+          </div>
           </div>
           <div class="span4">
             <div class="row"><p id="redbackground">News</p></div>
-            <div class="row"></div>
+            <div class="row">
+              <div class="span4">
+                <p id="design">Stay connected with Louisiana </p><p id="design">Lafayette University on <b>Facebook</b></p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="span1">
+                <img id="design2" src="images/facebook-logo.jpg" width=50 height=50>
+              </div>
+            </div>
+            <hr id="horizontal"/>
+            <div class="row">
+              <div class="span4">
+                <p id="design5"><b>- February 2012 -</b></p>
+                <p id="design">Journalism Students Collect 14</p><p id="design">Awards.<i><a id="blue" href=""> Read more >></a></i></p>
+              </div>
+            </div>
             
           </div>
         </div>
-        <div class="row redline">
+        <div class="row redline2">
           </div>
         <footer>
           <div class="row">
             <div class="span8">
-              <img id="placement1" src="images/logo.png" height= 50px width=50px>
+              <img id="placement3" src="images/logo.png" height= 50px width=50px>
             </div>
             <div class="span4">
-              <p id="placement2">Site map | Map | Contcat Us </p>
+              <p id="placement4">Site map | Map | Contcat Us </p>
 
             </div>
             
@@ -146,13 +303,13 @@
           </div>
           <div class="row">
 
-            <p id="placement"><b>University of Louisiana Lafayette</b> - 104 University Circle - Lafayette LA 70504 - Phone: 337-482-1000 - E-mail: webmaster@louisiana.edu</p>
+            <p id="placement5"><b>University of Louisiana Lafayette</b> - 104 University Circle - Lafayette LA 70504 - Phone: 337-482-1000 </p>
           </div>
         </footer>
-          <div class="row redline">
+          <div class="row redline2">
           </div>
         
-        
+  
 
     </div> <!-- end container -->
 
