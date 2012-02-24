@@ -430,5 +430,14 @@ padding:5px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
 
+.navx{
+    list-style-type:none;
+    display:none;
+    position:absolute;
+}
 
+.main-nav-:hover .navx{
+    display:inline;
+}
