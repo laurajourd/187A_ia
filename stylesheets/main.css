@@ -368,7 +368,7 @@
 
 
 #size{
-   width: 980px;
+    width:980px;
     height:150px;
 }
 
@@ -426,8 +426,9 @@ padding:5px;
 }
 
 
-.thumb{
-    height:100px;
-    width:100px;
-}
+#wf5    {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 
