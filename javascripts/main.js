@@ -53,7 +53,12 @@ $(document).ready(function() {
   
   /*gallery home page*/
   $('.myCarousel').carousel({
-  interval: 2000
+  interval: 3000
 })
+  
 
+  
 });
+
+
+
