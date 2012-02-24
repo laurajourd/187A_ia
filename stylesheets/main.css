@@ -23,6 +23,8 @@
     font-size: small;
 }
 
+
+
 #bar{
     border: 1px solid #C1C1C1;
 }
@@ -45,7 +47,7 @@
     margin-left: 144px;
 }
 
-#borderright{
+#menu1{
     border-right-style: inset;
     border-right-color: #C1C1C1;
 }
@@ -97,18 +99,30 @@
     color: green;
 }
 
+.dropdown-menu{
+    background-color: #F4F2EE;
+}
+
+.dropdown-menu li{
+    width: 280px;
+}
+
 
 
 
 
 .gallerysection{
     background-color: #C40C1D;
+    width:980px;
+    margin-left: 1px;
 }
 
 
 .greyline{
     background-color: #C1C1C1;
     height: 5px;
+    width:980px;
+    margin-left: 1px;
 }
 
 #grey{
@@ -186,12 +200,14 @@
 }
 .linksection{
     background-color: #F4F2EE;
+    width:980px;
+    margin-left: 1px;
 }
 
 
 
 #main-nav{
-    margin-left: 170px;
+    margin-left: 187px;
     list-style-type: none;
 }
 
@@ -225,44 +241,11 @@
     float: left;
     display: inline;
     margin-top: -140px;
-    margin-left: 820px;
+    margin-left: 793px;
     width: 200px;
     color:#C40C1D;
 }
 
-/*
-#main-nav ol{
-    background:#fff; 
-    background:rgba(255,255,255,0); 
-    list-style:none;
-    position:absolute;
-    left:-9999px;
-}
-
-#main-nav ol li{
-    padding-top: 1px;
-    float: none;
-}
-
-#main-nav ol a{
-    white-space: nowrap;
-}
-
-#main-nav li:hover ol{
-    left: 0;
-}
-
-#main-nav li:hover a{
-    background: #ffffff;
-}
-
-#main-nav li:hover ol a{
-    text-decoration: none;
-}
-
-#main-nav li:hover ol li a:hover{
-    background: #ffffff;
-}*/
 
 
 #navigation{
@@ -293,10 +276,12 @@
 
 .nav{
     background-color: #F4F2EE;
+    width:980px;
 }
 
 .piedpage{
     margin-top: 12px;
+   
 }
 
 
@@ -328,6 +313,15 @@
     text-align: center;
 }
 
+#placement5{
+    margin-top: 9px;
+    margin-left: 25px;
+}
+
+.principal{
+    width: 360px;
+}
+
 #redbackground{
     background-color: #C40C1D;
     text-align: center;
@@ -337,9 +331,18 @@
     font-size: large;
 }
 
+.redline2    {
+        background-color: #C40C1D;
+        height: 5px;
+        width: 980px;
+        width:980px;
+        margin-left: 1px;
+}
+
 .redline    {
         background-color: #C40C1D;
         height: 5px;
+        width: 980px;
 }
 
 #redcolor{
