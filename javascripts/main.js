@@ -56,6 +56,7 @@ $(document).ready(function() {
   interval: 3000
 })
 
+
 /* drop down menu*/
 $('.dropdown-toggle').dropdown();
   

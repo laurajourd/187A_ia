@@ -231,9 +231,9 @@
 }
 
 #main-nav a:hover{
-    background-color: #ffffff;
+    background-color: #C1C1C1;
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 #mapplace{
@@ -424,8 +424,9 @@ padding:5px;
 }
 
 
-.thumb{
-    height:100px;
-    width:100px;
-}
+#wf5    {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 
