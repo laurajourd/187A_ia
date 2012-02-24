@@ -2,36 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About UL Lafayette Wireframe.rp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wf5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wireframe/About UL Lafayette Wireframe.rp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wireframe/banner_WF.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wireframe/bigred.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wireframe/images/aboutimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wireframe/wireframe template.rp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WF2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WF3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WF4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WF5.html" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\charles.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\college-parent.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\faculty.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\prospie.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headbg.png" afterPath="$PROJECT_DIR$/images/headbg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/search.png" afterPath="$PROJECT_DIR$/images/search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ulink.gif" afterPath="$PROJECT_DIR$/images/ulink.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="$PROJECT_DIR$/javascripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/main.css" afterPath="$PROJECT_DIR$/stylesheets/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/competitiveanalysis.html" afterPath="$PROJECT_DIR$/competitiveanalysis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2x.html" afterPath="$PROJECT_DIR$/index2x.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note_to_self" afterPath="$PROJECT_DIR$/note_to_self" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +33,7 @@
       <file leaf-file-name="index2x.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index2x.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="242" column="42" selection-start="9438" selection-end="9438" vertical-scroll-proportion="-20.26923">
+            <state line="116" column="36" selection-start="3728" selection-end="3728" vertical-scroll-proportion="-22.884615">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
               </folding>
@@ -64,10 +41,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="-0.65384614">
+              <folding>
+                <element signature="tag#head#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="competitiveanalysis.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/competitiveanalysis.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="352" column="30" selection-start="12467" selection-end="12467" vertical-scroll-proportion="0.55772114">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="369" column="17" selection-start="4969" selection-end="4969" vertical-scroll-proportion="0.33766234">
+            <state line="369" column="17" selection-start="4969" selection-end="4969" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,6 +108,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="note_to_self" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note_to_self">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="34" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -130,18 +136,18 @@
         <option value="$PROJECT_DIR$/index copie.html" />
         <option value="$PROJECT_DIR$/personas.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/competitiveanalysis.html" />
         <option value="$PROJECT_DIR$/hardestdecisions.html" />
         <option value="$PROJECT_DIR$/competitiveanalysisx.html" />
-        <option value="$PROJECT_DIR$/note_to_self" />
         <option value="$PROJECT_DIR$/users.html" />
         <option value="$PROJECT_DIR$/indexx.html" />
         <option value="$PROJECT_DIR$/redesign.html" />
         <option value="$PROJECT_DIR$/navbar" />
         <option value="$PROJECT_DIR$/stylesheets/lib/bootstrap.css" />
-        <option value="$PROJECT_DIR$/index2x.html" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/index2x.html" />
+        <option value="$PROJECT_DIR$/note_to_self" />
+        <option value="$PROJECT_DIR$/competitiveanalysis.html" />
       </list>
     </option>
   </component>
@@ -347,10 +353,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26111504" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.124911785" sideWeight="0.6713092" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -423,23 +429,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/competitiveanalysis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1817" selection-end="1817" vertical-scroll-proportion="-7.8461537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="73" selection-start="179" selection-end="179" vertical-scroll-proportion="-3.2692308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note_to_self">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -455,15 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="58" selection-start="2678" selection-end="2678" vertical-scroll-proportion="-19.26923">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="-11.769231">
-          <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,18 +508,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2x.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="42" selection-start="9438" selection-end="9438" vertical-scroll-proportion="-20.26923">
+        <state line="369" column="17" selection-start="4969" selection-end="4969" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="-0.65384614">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
+    <entry file="file://$PROJECT_DIR$/note_to_self">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="369" column="17" selection-start="4969" selection-end="4969" vertical-scroll-proportion="0.33766234">
+        <state line="8" column="34" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2x.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="36" selection-start="3728" selection-end="3728" vertical-scroll-proportion="-22.884615">
+          <folding>
+            <element signature="tag#head#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitiveanalysis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="352" column="30" selection-start="12467" selection-end="12467" vertical-scroll-proportion="0.55772114">
           <folding />
         </state>
       </provider>
