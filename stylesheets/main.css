@@ -41,8 +41,8 @@
 
 #border{
     border: 1px solid black;
-    width: 630px;
-    margin-left: 144px;
+    width: 645px;
+    margin-left: 145px;
 }
 
 #borderright{
@@ -266,7 +266,7 @@
 
 
 #navigation{
-    margin-left: 160px;
+    margin-left: 185px;
     margin-top:30px;
     list-style-type: none;
 } 
