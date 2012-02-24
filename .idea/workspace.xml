@@ -6,12 +6,10 @@
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\college-parent.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\faculty.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\prospie.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/users/college-parent.jpg" afterPath="$PROJECT_DIR$/images/users/college-parent.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/users/faculty.png" afterPath="$PROJECT_DIR$/images/users/faculty.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/users/intlstudent.png" afterPath="$PROJECT_DIR$/images/users/intlstudent.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/users/postdoc.png" afterPath="$PROJECT_DIR$/images/users/postdoc.png" />
+      <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\personas.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\scenario_template.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\secondary_page_elements.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="$PROJECT_DIR$/javascripts/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users.html" afterPath="$PROJECT_DIR$/users.html" />
     </list>
     <ignored path="187A_ia.iws" />
@@ -34,32 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="personas.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/personas.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="36" selection-start="4585" selection-end="4585" vertical-scroll-proportion="-8.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/users.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1050" column="44" selection-start="66376" selection-end="66376" vertical-scroll-proportion="0.43928036">
-              <folding>
-                <element signature="tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#4;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#5;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,6 +115,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="users.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/users.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="892" column="29" selection-start="53071" selection-end="53071" vertical-scroll-proportion="0.7798165">
+              <folding>
+                <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#4;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#5;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -158,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/note_to_self" />
-        <option value="$PROJECT_DIR$/toggle.html" />
         <option value="$PROJECT_DIR$/secondary_elements.html" />
         <option value="$PROJECT_DIR$/secondary_page_elements.txt" />
         <option value="$PROJECT_DIR$/secondary_page_elements.html" />
@@ -173,6 +158,8 @@
         <option value="$PROJECT_DIR$/main_template.html" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/javascripts/main.js" />
+        <option value="$PROJECT_DIR$/index copie.html" />
+        <option value="$PROJECT_DIR$/personas.html" />
         <option value="$PROJECT_DIR$/users.html" />
       </list>
     </option>
@@ -250,38 +237,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="187A_ia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="187A_ia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="187A_ia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="187A_ia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -355,13 +310,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12632322" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26252645" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -430,21 +385,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/justifications_hardestdecisions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="66" selection-end="66" vertical-scroll-proportion="0.04906205" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homepage_elements.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="293" column="47" selection-start="11080" selection-end="11080" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secondary_page_elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="41" selection-end="41" vertical-scroll-proportion="0.055374593">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/secondary_page_elements.txt">
@@ -575,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="36" selection-start="4585" selection-end="4585" vertical-scroll-proportion="-8.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="23" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
@@ -589,17 +525,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index copie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="42" selection-start="5563" selection-end="5563" vertical-scroll-proportion="0.50070125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1050" column="44" selection-start="66376" selection-end="66376" vertical-scroll-proportion="0.43928036">
+        <state line="892" column="29" selection-start="53071" selection-end="53071" vertical-scroll-proportion="0.7798165">
           <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#4;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#5;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#6;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
