@@ -1,8 +1,48 @@
 $(document).ready(function() {
 
   /*toggle visibility*/
-    $(".toggle p.title").click(function() {
-        $(this).next().toggle('blind');
+
+    $('#_shelly').click(function(){
+        $('#charles_').hide();
+        $('#nico_').hide();
+        $('#mary_').hide();
+        $('#abdul_').hide();
+        $('#shelly_').show();
+    });
+
+    $('#_charles').click(function(){
+        $('#nico_').hide();
+        $('#mary_').hide();
+        $('#abdul_').hide();
+        $('#shelly_').hide();
+        $('#charles_').show();
+    });
+
+
+    $('#_nico').click(function(){
+        $('#charles_').hide();
+        $('#mary_').hide();
+        $('#abdul_').hide();
+        $('#shelly_').hide();
+        $('#nico_').show();
+    });
+
+
+    $('#_mary').click(function(){
+        $('#charles_').hide();
+        $('#nico_').hide();
+        $('#abdul_').hide();
+        $('#shelly_').hide();
+        $('#mary_').show();
+    });
+
+
+    $('#_abdul').click(function(){
+        $('#charles_').hide();
+        $('#nico_').hide();
+        $('#mary_').hide();
+        $('#shelly_').hide();
+        $('#abdul_').show();
     });
 
 

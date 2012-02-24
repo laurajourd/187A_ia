@@ -6,7 +6,7 @@
     padding: 10px;
 }
 
-.background p{
+.background p li{
     font-family: verdana;
 }
 
@@ -421,5 +421,8 @@ padding:5px;
 }
 
 
-
+.thumb{
+    height:100px;
+    width:100px;
+}
 
