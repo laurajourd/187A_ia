@@ -85,7 +85,7 @@
 #design4{
    
     border: 1px solid #C1C1C1;
-    margin-left: 5px;
+    margin-left: 25px;
     height: 50px;
 }
  #design5{
@@ -166,6 +166,10 @@
     border: 1px dotted;
     width: 267px;
     color:#C1C1C1;
+}
+
+#imageplace{
+    margin-left: 80px;
 }
 
 #justify{
@@ -289,8 +293,9 @@
 
 
 
+
 #project_pages_navigation {
-    margin-left: 150px;
+    margin-left: 175px;
     margin-top:30px;
     list-style-type: none;
 } 

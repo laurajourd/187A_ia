@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/athletics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/horticulture1.gif" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\charles.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\college-parent.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\faculty.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\images\prospie.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/scrnshots/newULhome.png" afterPath="$PROJECT_DIR$/images/scrnshots/newULhome.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/competitiveanalysis.html" afterPath="$PROJECT_DIR$/competitiveanalysis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/competitiveanalysisOG.html" afterPath="$PROJECT_DIR$/competitiveanalysisOG.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hardestdecisions.html" afterPath="$PROJECT_DIR$/hardestdecisions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index copie.html" afterPath="$PROJECT_DIR$/index copie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2x.html" afterPath="$PROJECT_DIR$/index2x.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexx.html" afterPath="$PROJECT_DIR$/indexx.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_template.html" afterPath="$PROJECT_DIR$/main_template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nostylenav.html" afterPath="$PROJECT_DIR$/nostylenav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note_to_self" afterPath="$PROJECT_DIR$/note_to_self" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redesign.html" afterPath="$PROJECT_DIR$/redesign.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/main.css" afterPath="$PROJECT_DIR$/stylesheets/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users.html" afterPath="$PROJECT_DIR$/users.html" />
@@ -41,10 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index2x.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index2x.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index2x.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="63" selection-start="2080" selection-end="2080" vertical-scroll-proportion="0.45412844">
+            <state line="60" column="63" selection-start="2080" selection-end="2080" vertical-scroll-proportion="-11.423077">
               <folding />
             </state>
           </provider>
@@ -53,7 +49,16 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="272" column="13" selection-start="3643" selection-end="3643" vertical-scroll-proportion="0.0">
+            <state line="295" column="0" selection-start="3887" selection-end="3887" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hardestdecisions.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="80" selection-start="1809" selection-end="1809" vertical-scroll-proportion="0.4678899">
               <folding />
             </state>
           </provider>
@@ -71,7 +76,7 @@
       <file leaf-file-name="competitiveanalysis.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/competitiveanalysis.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1825" selection-end="1825" vertical-scroll-proportion="-8.461538">
+            <state line="57" column="0" selection-start="2045" selection-end="2045" vertical-scroll-proportion="-8.461538">
               <folding />
             </state>
           </provider>
@@ -80,7 +85,7 @@
       <file leaf-file-name="indexx.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexx.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="52" selection-start="1878" selection-end="1878" vertical-scroll-proportion="-12.423077">
+            <state line="51" column="52" selection-start="1967" selection-end="1967" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -99,15 +104,6 @@
         <entry file="file://$PROJECT_DIR$/stylesheets/lib/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="112" column="6" selection-start="1924" selection-end="1924" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascripts/lib/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="546" column="33" selection-start="16232" selection-end="16232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,7 +144,6 @@
       <list>
         <option value="$PROJECT_DIR$/personas.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/hardestdecisions.html" />
         <option value="$PROJECT_DIR$/competitiveanalysisx.html" />
         <option value="$PROJECT_DIR$/users.html" />
         <option value="$PROJECT_DIR$/redesign.html" />
@@ -160,8 +155,9 @@
         <option value="$PROJECT_DIR$/competitiveanalysis.html" />
         <option value="$PROJECT_DIR$/nostylenav.html" />
         <option value="$PROJECT_DIR$/note_to_self" />
-        <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/index2x.html" />
+        <option value="$PROJECT_DIR$/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/hardestdecisions.html" />
       </list>
     </option>
   </component>
@@ -296,7 +292,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -372,11 +368,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redesign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="58" selection-start="2678" selection-end="2678" vertical-scroll-proportion="-19.26923" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="16" selection-start="1773" selection-end="1773" vertical-scroll-proportion="0.040572792" />
@@ -423,14 +414,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexx.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="52" selection-start="1878" selection-end="1878" vertical-scroll-proportion="-12.423077">
+        <state line="51" column="52" selection-start="1967" selection-end="1967" vertical-scroll-proportion="-12.423077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/competitiveanalysis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1825" selection-end="1825" vertical-scroll-proportion="-8.461538">
+        <state line="57" column="0" selection-start="2045" selection-end="2045" vertical-scroll-proportion="-8.461538">
           <folding />
         </state>
       </provider>
@@ -456,16 +447,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
+    <entry file="file://$PROJECT_DIR$/index2x.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="272" column="13" selection-start="3643" selection-end="3643" vertical-scroll-proportion="0.0">
+        <state line="60" column="63" selection-start="2080" selection-end="2080" vertical-scroll-proportion="-11.423077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2x.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="63" selection-start="2080" selection-end="2080" vertical-scroll-proportion="0.45412844">
+        <state line="295" column="0" selection-start="3887" selection-end="3887" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="80" selection-start="1809" selection-end="1809" vertical-scroll-proportion="0.4678899">
           <folding />
         </state>
       </provider>
