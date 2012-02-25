@@ -1,0 +1,1046 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../Research_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:180px;
+    top:296px;
+    width:601px;
+    height:520px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:607px;
+    height:526px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:252px;
+    width:597px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:180px;
+    top:296px;
+    width:601px;
+    height:520px
+}
+
+.u2_original {
+    background-image: url('../Research_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:780px;
+    top:297px;
+    width:180px;
+    height:473px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:479px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:228px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:780px;
+    top:297px;
+    width:180px;
+    height:473px
+}
+
+.u4_original {
+    background-image: url('../Research_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:0px;
+    top:300px;
+    width:180px;
+    height:470px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:476px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:227px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:0px;
+    top:300px;
+    width:180px;
+    height:470px
+}
+
+.u6_original {
+    background-image: url('../Research_files/u6_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:0px;
+    top:747px;
+    width:960px;
+    height:80px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:86px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:0px;
+    top:747px;
+    width:960px;
+    height:80px
+}
+
+.u8_original {
+    background-image: url('../Research_files/u8_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:180px;
+    height:80px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:180px;
+    height:80px
+}
+
+.u10_original {
+    background-image: url('../Research_files/u10_original.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:180px;
+    top:200px;
+    width:600px;
+    height:80px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:606px;
+    height:86px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:596px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:180px;
+    top:200px;
+    width:600px;
+    height:80px
+}
+
+.u12_original {
+    background-image: url('../Research_files/u12_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:160px;
+    width:960px;
+    height:30px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:36px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:0px;
+    top:160px;
+    width:960px;
+    height:30px
+}
+
+.u14_original {
+    background-image: url('../Research_files/u14_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:960px;
+    height:150px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px
+}
+
+.u16_original {
+    background-image: url('../Research_files/u16_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:-1px;
+    top:1px;
+    width:960px;
+    height:5px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:-1px;
+    top:1px;
+    width:960px;
+    height:5px
+}
+
+.u18_original {
+    background-image: url('../Research_files/u18_original.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:87px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px
+}
+
+.u20 {
+    position:absolute;
+    left:781px;
+    top:19px;
+    width:170px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:781px;
+    top:130px;
+    width:123px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22_original {
+    background-image: url('../Research_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:917px;
+    top:131px;
+    width:25px;
+    height:25px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:917px;
+    top:131px;
+    width:25px;
+    height:25px
+}
+
+.u24_original {
+    background-image: url('../Research_files/u16_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:0px;
+    top:828px;
+    width:960px;
+    height:5px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:0px;
+    top:828px;
+    width:960px;
+    height:5px
+}
+
+.u26_original {
+    background-image: url('../Research_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:57px;
+    top:754px;
+    width:50px;
+    height:50px;
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:57px;
+    top:754px;
+    width:50px;
+    height:50px
+}
+
+.u28 {
+    position:absolute;
+    left:41px;
+    top:805px;
+    width:856px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_original {
+    background-image: url('../Research_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:280px;
+    width:960px;
+    height:20px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:26px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:0px;
+    top:280px;
+    width:960px;
+    height:20px
+}
+
+.u31_original {
+    background-image: url('../Research_files/u31_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:0px;
+    top:740px;
+    width:960px;
+    height:7px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:13px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:0px;
+    top:740px;
+    width:960px;
+    height:7px
+}
+
+.u33 {
+    position:absolute;
+    left:244px;
+    top:227px;
+    width:180px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_original {
+    background-image: url('../Research_files/u34_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:248px;
+    top:302px;
+    width:410px;
+    height:220px;
+}
+
+#u34_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:410px;
+    height:220px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:102px;
+    width:406px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:248px;
+    top:302px;
+    width:410px;
+    height:220px
+}
+
+.u36 {
+    position:absolute;
+    left:181px;
+    top:569px;
+    width:589px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:38px;
+    top:350px;
+    width:150px;
+    height:165px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_original {
+    background-image: url('../Research_files/u38_original.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:780px;
+    top:200px;
+    width:180px;
+    height:80px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:780px;
+    top:200px;
+    width:180px;
+    height:80px
+}
+
+.u40 {
+    position:absolute;
+    left:784px;
+    top:206px;
+    width:170px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u41 {
+    position:absolute;
+    left:200px;
+    top:540px;
+    width:550px;
+    height:96px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:38px;
+    top:284px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:790px;
+    top:654px;
+    width:170px;
+    height:80px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_text {
+    position:absolute;
+    left:185px;
+    top:166px;
+    width:625px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:185px;
+    top:166px;
+    width:625px;
+    height:16px
+}
+
+.u45_line {
+    background-image: url('../Research_files/u45_line.png');
+}
+
+.u45_line {
+    position:absolute;
+    left:242px;
+    top:160px;
+    width:3px;
+    height:30px;
+}
+
+.u45 {
+    position:absolute;
+    left:242px;
+    top:160px;
+    width:3px;
+    height:30px
+}
+
+.u46_line {
+    background-image: url('../Research_files/u46_line.png');
+}
+
+.u46_line {
+    position:absolute;
+    left:372px;
+    top:160px;
+    width:3px;
+    height:30px;
+}
+
+.u46 {
+    position:absolute;
+    left:372px;
+    top:160px;
+    width:3px;
+    height:30px
+}
+
+.u47_line {
+    background-image: url('../Research_files/u47_line.png');
+}
+
+.u47_line {
+    position:absolute;
+    left:494px;
+    top:160px;
+    width:3px;
+    height:30px;
+}
+
+.u47 {
+    position:absolute;
+    left:494px;
+    top:160px;
+    width:3px;
+    height:30px
+}
+
+.u48_line {
+    background-image: url('../Research_files/u48_line.png');
+}
+
+.u48_line {
+    position:absolute;
+    left:594px;
+    top:160px;
+    width:3px;
+    height:30px;
+}
+
+.u48 {
+    position:absolute;
+    left:594px;
+    top:160px;
+    width:3px;
+    height:30px
+}
+
+.u49_line {
+    background-image: url('../Research_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:694px;
+    top:160px;
+    width:3px;
+    height:30px;
+}
+
+.u49 {
+    position:absolute;
+    left:694px;
+    top:160px;
+    width:3px;
+    height:30px
+}
+
+.u50_container {
+    position:absolute;
+    left:770px;
+    top:345px;
+    width:200px;
+    height:75px;
+}
+
+#u50_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:200px;
+    height:75px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:770px;
+    top:345px;
+    width:200px;
+    height:75px
+}
+
