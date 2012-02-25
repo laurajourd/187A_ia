@@ -47,11 +47,6 @@
     margin-left: 145px;
 }
 
-#menu1{
-    border-right-style: inset;
-    border-right-color: #C1C1C1;
-}
-
 .carousel{
     margin-top: 15px;
     border: 4px solid white;
@@ -90,7 +85,7 @@
 #design4{
    
     border: 1px solid #C1C1C1;
-    margin-left: 5px;
+    margin-left: 25px;
     height: 50px;
 }
  #design5{
@@ -173,6 +168,10 @@
     color:#C1C1C1;
 }
 
+#imageplace{
+    margin-left: 80px;
+}
+
 #justify{
     text-align: justify;
 }
@@ -206,14 +205,19 @@
 }
 
 
+/*****ULL REDESIGN NAVIGATION BAR*****/
+
+#menu1{
+    border-right-style: inset;
+    border-right-color: #C1C1C1;
+}
 
 #main-nav{
     margin-left: 187px;
     list-style-type: none;
 }
 
-
-#main-nav li{
+.main-nav-{
     float: left;
     position: relative;
     margin-right: 2px;
@@ -221,9 +225,13 @@
     text-decoration: none;
 }
 
+#main-nav a:hover{
+    background-color: #C1C1C1;
+    text-decoration: none;
+    color: #ffffff;
+}
 
-#main-nav a{
-    
+.main-nav- a{
     display: block;
     background-color: #F4F2EE;
     border: 1px solid #F4F2EE;
@@ -231,11 +239,47 @@
     color: #000000;
 }
 
-#main-nav a:hover{
-    background-color: #C1C1C1;
-    text-decoration: none;
-    color: #ffffff;
+.main-nav-:hover .navx{
+    display:table-row;
 }
+
+.navx{
+    list-style-type:none;
+    display:none;
+    width:980px;
+    position:absolute;
+    z-index:1;
+    top:38px;
+
+}
+
+.navx li{
+    float:left;
+}
+
+.navx li a{
+    font-size:13.5px;
+}
+
+#about_subnav{
+    left:-86px;
+}
+#admissions_subnav{
+    left:-231px;
+}
+#academics_subnav{
+    left:-323px;
+}
+#campuslife_subnav{
+    left:-413px;
+}
+#research_subnav{
+    left:-513px;
+}
+
+
+/*****end navigation bar*****/
+
 
 #mapplace{
     position: relative;
@@ -249,19 +293,20 @@
 
 
 
-#navigation{
+
+#project_pages_navigation {
     margin-left: 175px;
     margin-top:30px;
     list-style-type: none;
 } 
 
-#navigation li{
+#project_pages_navigation li{
     float: left;
     margin-right: 5px;
     font: 16px italic Verdana, sans serif;
 }
 
-#navigation li a{
+#project_pages_navigation li a{
     display: block;
     background-color: #C0C9E0;
     border: 1px solid #C0C9E0;
@@ -269,7 +314,7 @@
     color: #000080;
 }
 
-#navigation li a:hover{
+#project_pages_navigation li a:hover{
     background-color: #ffffff;
     text-decoration: none;
     color: #000000;
@@ -431,14 +476,4 @@ padding:5px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.navx{
-    list-style-type:none;
-    display:none;
-    position:absolute;
-}
-
-.main-nav-:hover .navx{
-    display:inline;
 }
