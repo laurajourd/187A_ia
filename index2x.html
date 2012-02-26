@@ -36,89 +36,80 @@
 </head>
 
 <body>
-<div class="container">
-<div class="row redline">
-</div>
-
-<div class="row" style="width:980px;">
-    <img id="size" src="images/headbg.png">
-
-    <div class="row">
-        <div class="span6">
-            <a href="http://wwww.louisiana.edu"><img id="logo" src="images/logo.png" height= 87px width= 99px></a>
-        </div>
-
-        <div class="span6" >
-
-            <p id="mapplace"><a id="redcolor" href="http://www.louisiana.edu/AboutUs/CampusMap.pdf">Map</a> | <a id="redcolor"  href="http://www.louisiana.edu/AboutUs/IndexAZ.shtml">A-Z Index</a> | <a id="redcolor"  href="http://www.louisiana.edu/AboutUs/ContactUs/">Contact</a></p>
-            <img  id="searchplace" src="images/search.gif" >
-        </div>
-
+<div class="container" style="width:980px">
+    <div class="row redline">
     </div>
 
-<div class="row nav" style="margin-bottom:4px">
-    <ul class="nav" id="main-nav" style="position:relative;left:20px">
-        <li class="main-nav-" id="menu1"><a href="index2x.html"><b><i>Home</i></b></a></li>
-        <li class="main-nav-" id="menu1"><a href="#">About UL Lafayette</a>
-            <ul class="navx" id="about_subnav">
-                <li><a href="#">President's Message</a></li>
-                <li><a href="#">History & Mission</a></li>
-                <li><a href="#">Fast Facts</a></li>
-                <li><a href="#">Campus Map & Directions</a></li>
-                <li><a href="#">Explore Lafayette</a></li>
+    <div class="row" style="width:980px;">
+        <img id="size" src="images/headbg.png">
+        <div class="row">
+            <div class="span6">
+                <a href="http://wwww.louisiana.edu"><img id="logo" src="images/logo.png" height= 87px width= 99px></a>
+            </div>
+            <div class="span6" >
+                <p id="mapplace"><a id="redcolor" href="http://www.louisiana.edu/AboutUs/CampusMap.pdf">Map</a> | <a id="redcolor"  href="http://www.louisiana.edu/AboutUs/IndexAZ.shtml">A-Z Index</a> | <a id="redcolor"  href="http://www.louisiana.edu/AboutUs/ContactUs/">Contact</a></p>
+                <form id="searchplace" action="http://www.louisiana.edu/AboutUs/Search.shtml">
+                    <input type="text" placeholder="Search our site" style="width:150px;border-color:#C40C1D;border-width:3px;border-radius:0px;" />
+                </form>
+                <img id="searchlogo" src="images/search_30px.png" />
+            </div>
+        </div>
+        <!--end header top-->
+
+        <div class="row" style="width:980px">
+
+            <ul class="nav">
+                <li class="main-nav-"><a href="index2x.html"><b><i>Home</i></b></a></li>
+                <li class="main-nav-"><a href="About_UL_Lafayette.html">About UL Lafayette</a>
+                    <ul class="navx" id="about_subnav">
+                        <li><a href="#">President's Message</a></li>
+                        <li><a href="#">History & Mission</a></li>
+                        <li><a href="#">Fast Facts</a></li>
+                        <li><a href="#">Campus Map & Directions</a></li>
+                        <li><a href="#">Explore Lafayette</a></li>
+                    </ul>
+                </li>
+                <li class="main-nav-" id="menu1"><a href="#">Admissions</a>
+                    <ul class="navx" id="admissions_subnav">
+                        <li><a href="#">Undergraduate</a></li>
+                        <li><a href="#">Graduate</a></li>
+                        <li><a href="#">International Students</a></li>
+                        <li><a href="#">Summer Session</a></li>
+                        <li><a href="#">Non-Degree Programs</a></li> <!--University College-->
+                        <li><a href="#">Financial Aid & Scholarships</a></li>
+                    </ul>
+                </li>
+                <li class="main-nav-" id="menu1"><a href="#">Academics</a>
+                    <ul class="navx" id="academics_subnav">
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Departments & <br />Disciplines</a></li>
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Distance Education & E-learning</a></li>
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Continuing Education</a></li>
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Academic Calendar</a></li>
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Current Course Offerings</a></li>
+                        <li><a href="#"><img class="list_fleur" src="images/fleurdelisbw.gif" style="width:17px;height:17px;" /> Academic Support Services</a></li>
+                    </ul>
+                </li>
+                <li class="main-nav-" id="menu1"><a href="#">Campus Life</a>
+                    <ul class="navx" id="campuslife_subnav">
+                        <li><a href="#">Housing & Dining</a></li>
+                        <li><a href="#">Health & Safety</a></li>
+                        <li><a href="#">Athletics</a></li>
+                        <li><a href="#">Student Organizations</a></li>
+                        <li><a href="#">Arts & Culture</a></li>
+                        <li><a href="#">Parking & Transportation</a></li>
+                    </ul>
+                </li>
+                <li class="main-nav-"><a href="#" style="width:145px;">Research</a>
+                    <ul class="navx" id="research_subnav">
+                        <li><a href="#" style="width:145px;">Research Administration Offices</a></li>
+                        <li><a href="#" style="width:145px;">Centers & Laboratories</a></li>
+                        <li><a href="#" style="width:145px;">University Research Park</a></li>
+                        <li><a href="#" style="width:145px;">Forms & Resources</a></li>
+                    </ul>
+                </li>
             </ul>
-        </li>
-        <li class="main-nav-" id="menu1"><a href="#">Admissions</a>
-            <ul class="navx" id="admissions_subnav">
-                <li><a href="#">Undergraduate</a>
-                    <img src="images/fleurdelist.png" /></li>
-                <li><a href="#">Graduate</a></li>
-                <li><a href="#">International Students</a></li>
-                <li><a href="#">Summer Session</a></li>
-                <li><a href="#">Non-Degree Programs</a></li> <!--University College-->
-                <li><a href="#">Financial Aid & Scholarships</a></li>
-            </ul>
-        </li>
-        <li class="main-nav-" id="menu1"><a href="#">Academics</a>
-            <ul class="navx" id="academics_subnav">
-                <li><a href="#">Departments & Disciplines</a></li>
-                <li><a href="#">Distance Education & E-learning</a></li>
-                <li><a href="#">Continuing Education</a></li><br />
-                <div style="position:relative; left:-500px; top:12px; border-bottom-color:#C1C1C1; border-bottom-width:2px">
-                <li><a href="#">Academic Calendar</a></li>
-                <li><a href="#">Current Course Offerings</a></li>
-                <li><a href="#">Academic Support Services</a></li>
-                </div>
-
-            </ul>
-        </li>
-        <li class="main-nav-" id="menu1"><a href="#">Campus Life</a>
-            <ul class="navx" id="campuslife_subnav">
-                <li><a href="#">Housing & Dining</a></li>
-                <li><a href="#">Health & Safety</a></li>
-                <li><a href="#">Athletics</a></li>
-                <li><a href="#">Student Organizations</a></li>
-                <li><a href="#">Arts & Culture</a></li>
-                <li><a href="#">Parking & Transportation</a></li>
-            </ul>
-        </li>
-        <li class="main-nav-"><a href="#">Research</a>
-            <ul class="navx" id="research_subnav">
-                <li><a href="#">Research Administration Offices</a></li>
-                <li><a href="#">Centers & Laboratories</a></li>
-                <li><a href="#">University Research Park</a></li>
-                <li><a href="#">Forms & Resources</a></li>
-            </ul>
-        </li>
-    </ul>
-
-
-
-
-
-
+        </div><!--end navigation bar-->
     </div>
-
 
 <!--end header-->
 
@@ -223,7 +214,7 @@
     <div class="row greyline">
     </div>
     <div class="row linksection">
-        <div class="span4">
+        <div class="row">
             <p id="redbackground">Direct Links</p>
             <div class="row">
                 <div class="span4">
@@ -233,9 +224,7 @@
             <br/>
 
             <div class="row">
-                <div class="span4">
                     <p id="design3">- Go to the Library - </p>
-                </div>
             </div>
             <hr id="horizontal"/>
             <div class="row">
@@ -247,9 +236,7 @@
             </div>
             <hr id="horizontal"/>
             <div class="row">
-                <div class="span4">
                     <p id="design">Athletics</p>
-                </div>
             </div>
 
         </div>
@@ -312,8 +299,7 @@
 
         </div>
     </div>
-</div>
-<!-- end page content-->
+
 
 <div class="row">
     <div class="row redline2">

@@ -110,7 +110,6 @@
 .gallerysection{
     background-color: #C40C1D;
     width:980px;
-    margin-left: 1px;
 }
 
 
@@ -118,7 +117,6 @@
     background-color: #C1C1C1;
     height: 5px;
     width:980px;
-    margin-left: 1px;
 }
 
 #grey{
@@ -196,7 +194,7 @@
     position: relative;
     float: left;
     display: inline;
-    margin: -130px 0px 20px 40px;
+    margin: -130px 0px 20px 20px;
 }
 .linksection{
     background-color: #F4F2EE;
@@ -206,79 +204,47 @@
 
 
 /*****ULL REDESIGN NAVIGATION BAR*****/
-
-#menu1{
-    border-right-style: inset;
-    border-right-color: #C1C1C1;
-}
-
-#main-nav{
-    margin-left: 187px;
-    list-style-type: none;
+.nav{
+    list-style-type:none;
 }
 
 .main-nav-{
-    float: left;
-    position: relative;
-    margin-right: 2px;
+    display:block;
+    position:relative;
+    float:left;
     font: 16px italic Verdana, sans serif;
-    text-decoration: none;
-}
+    text-decoration:none;
+    margin-bottom: 5px;
 
-#main-nav a:hover{
-    background-color: #C1C1C1;
-    text-decoration: none;
-    color: #ffffff;
+
 }
 
 .main-nav- a{
-    display: block;
-    background-color: #F4F2EE;
-    border: 1px solid #F4F2EE;
-    padding: .5em;
-    color: #000000;
+    display:block;
+    width:143px;
+    padding:10px;
+    text-align:center;
+    color:black;
+    background-color:#F4F2EE;
 }
 
-.main-nav-:hover .navx{
-    display:table-row;
-}
-
-.navx{
+.navx {
+    display: none;
     list-style-type:none;
-    display:none;
-    width:980px;
     position:absolute;
-    z-index:1;
-    top:38px;
-
-}
-
-.navx li{
-    float:left;
+    left:-25px;
+    z-index: 1;
 }
 
 .navx li a{
     font-size:13.5px;
+    text-decoration:none;
+    text-align:left;
 }
 
-#about_subnav{
-    left:-86px;
-}
-#admissions_subnav{
-    left:-231px;
-}
-#academics_subnav{
-    left:-323px;
-}
-#campuslife_subnav{
-    left:-413px;
-}
-#research_subnav{
-    left:-513px;
-}
-
-
-/*****end navigation bar*****/
+.navx li a:hover{
+    color:#F4F2EE;
+d/*****end navigation bar*****/
 
 
 #mapplace{
@@ -286,7 +252,7 @@
     float: left;
     display: inline;
     margin-top: -140px;
-    margin-left: 810px;
+    margin-left: 790px;
     width: 200px;
     color:#C40C1D;
 }
@@ -320,10 +286,6 @@
     color: #000000;
 }
 
-.nav{
-    background-color: #F4F2EE;
-    width:980px;
-}
 
 .piedpage{
     margin-top: 12px;
@@ -389,6 +351,7 @@
         background-color: #C40C1D;
         height: 5px;
         width: 980px;
+        margin:0;
 }
 
 #redcolor{
@@ -405,10 +368,20 @@
     float: left;
     display: inline;
     margin-top: -110px;
-    margin-left: 805px;
+    margin-left: 785px;
     width: 165px;
     height: 30px;
    
+}
+
+#searchlogo{
+    position: relative;
+    float: left;
+    margin-top: -103px;
+    margin-left: 925px;
+    width: 20px;
+    height: 20px;
+
 }
 
 
@@ -477,3 +450,7 @@ padding:5px;
     margin-left: auto;
     margin-right: auto;
 }
+
+input::-webkit-input-placeholder {font-style:italic;font-size:10px;}
+
+input:-moz-placeholder {font-style:italic;font-size:10px;}
