@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/competitiveanalysis.html" afterPath="$PROJECT_DIR$/competitiveanalysis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hardestdecisions.html" afterPath="$PROJECT_DIR$/hardestdecisions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hardestdecisionsx.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homepage_redesign.html" afterPath="$PROJECT_DIR$/homepage_redesign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redesign.html" afterPath="$PROJECT_DIR$/redesign.html" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,16 +57,34 @@
       <file leaf-file-name="redesign.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="31" selection-start="3472" selection-end="3472" vertical-scroll-proportion="-12.538462">
+            <state line="62" column="79" selection-start="3387" selection-end="3387" vertical-scroll-proportion="-40.53846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hardestdecisions.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hardestdecisions.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="33" selection-start="2728" selection-end="2728" vertical-scroll-proportion="0.39430285">
+            <state line="87" column="50" selection-start="4721" selection-end="4721" vertical-scroll-proportion="27.807692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hardestdecisionsx.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hardestdecisionsx.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="107" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.3753943">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage_redesign.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage_redesign.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="211" column="107" selection-start="13728" selection-end="13728" vertical-scroll-proportion="-5.1153846">
               <folding />
             </state>
           </provider>
@@ -103,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/navbar" />
         <option value="$PROJECT_DIR$/competitiveanalysisOG.html" />
         <option value="$PROJECT_DIR$/indexx.html" />
         <option value="$PROJECT_DIR$/nostylenav.html" />
@@ -111,14 +130,15 @@
         <option value="$PROJECT_DIR$/javascripts/main.js" />
         <option value="$PROJECT_DIR$/index2x.html" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/homepage_redesign.html" />
         <option value="$PROJECT_DIR$/users.html" />
         <option value="$PROJECT_DIR$/note_to_self" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
-        <option value="$PROJECT_DIR$/redesign.html" />
         <option value="$PROJECT_DIR$/187A_infoarch_index.html" />
         <option value="$PROJECT_DIR$/competitiveanalysis.html" />
         <option value="$PROJECT_DIR$/hardestdecisions.html" />
+        <option value="$PROJECT_DIR$/redesign.html" />
+        <option value="$PROJECT_DIR$/hardestdecisionsx.html" />
+        <option value="$PROJECT_DIR$/homepage_redesign.html" />
       </list>
     </option>
   </component>
@@ -206,8 +226,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\187A_ia\stylesheets" />
       <recent name="C:\Users\Admin\187A_ia" />
+      <recent name="C:\Users\Admin\187A_ia\stylesheets" />
     </key>
   </component>
   <component name="RunManager">
@@ -275,7 +295,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32621083" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2599119" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2597036" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -374,30 +394,9 @@
         <state line="37" column="54" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note_to_self">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homepage_redesign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="59" selection-start="3708" selection-end="3708" vertical-scroll-proportion="1.8980583">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="21" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="31" selection-start="3472" selection-end="3472" vertical-scroll-proportion="-12.538462">
           <folding />
         </state>
       </provider>
@@ -423,9 +422,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/note_to_self">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="79" selection-start="3387" selection-end="3387" vertical-scroll-proportion="-40.53846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="33" selection-start="2728" selection-end="2728" vertical-scroll-proportion="0.39430285">
+        <state line="87" column="50" selection-start="4721" selection-end="4721" vertical-scroll-proportion="27.807692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage_redesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="107" selection-start="13728" selection-end="13728" vertical-scroll-proportion="-5.1153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hardestdecisionsx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="107" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.3753943">
           <folding />
         </state>
       </provider>
