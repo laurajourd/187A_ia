@@ -1,7 +1,7 @@
 ﻿
 var PageName = 'Admission';
 var PageId = '8a51100e88ca407ab8d5649abe643e44'
-var PageUrl = 'Admission.html'
+var PageUrl = 'Admissions.html'
 document.title = 'Admission';
 var PageNotes = 
 {
@@ -211,7 +211,7 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="index2.html" + "";
+	self.location.href="homepage_redesign.html" + "";
 
 }
 

@@ -210,6 +210,7 @@
     background-color: #F4F2EE;
     width:980px;
     margin-left: 1px;
+    padding-bottom:20px;
 }
 
 
@@ -332,8 +333,9 @@
 }
 
 #placement3{
-    margin-top: 9px;
+    margin-top: 19px;
     margin-left: 66px;
+    margin-bottom:25px;
 }
 
 #placement4{
@@ -342,10 +344,6 @@
     text-align: center;
 }
 
-#placement5{
-    margin-top: 9px;
-    margin-left: 25px;
-}
 
 .principal{
     width: 360px;
@@ -377,6 +375,8 @@
 
 #redcolor{
     color: #C40C1D;
+    font-family: Arial, sans;
+    font-size:12px;
 }
 
 #search{

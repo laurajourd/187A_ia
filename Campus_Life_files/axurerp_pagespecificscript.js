@@ -61,7 +61,7 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="Admission.html" + GetQuerystring();
+	self.location.href="Admissions.html" + GetQuerystring();
 
 }
 
@@ -213,7 +213,7 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="index2.html" + "";
+	self.location.href="homepage_redesign.html" + "";
 
 }
 
