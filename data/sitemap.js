@@ -13,7 +13,7 @@
 {
 "pageName":"Admission",
 "type":"Wireframe",
-"url":"Admissions.html"},
+"url":"Admission.html"},
 {
 "pageName":"Academics",
 "type":"Wireframe",
