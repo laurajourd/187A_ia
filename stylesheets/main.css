@@ -1,3 +1,5 @@
+/*****project presentation pages*****/
+
 .background{
     background-color: #F2F2F2;
     margin-top: 30px;
@@ -23,19 +25,47 @@
     font-size: small;
 }
 
-#bluecolor{
+.bluecolor{
     color: #000080;
     text-align: center;
     background-color: #C0C9E0;
 }
 
-
-
-#border{
+.border{
     border: 1px solid black;
     width: 645px;
     margin-left: 145px;
 }
+
+.center{
+    text-align: center;
+}
+
+.placement{
+    margin-top: 9px;
+    text-align: justify;
+    width: 800px;
+}
+
+.placement1{
+    margin-top: 9px;
+    margin-left: 60px;
+    text-align: justify;
+    width: 680px;
+}
+#contact{
+    display:none;
+}
+
+#piedpage{
+    margin-top: 12px;
+}
+
+
+
+
+/*****end project presentation pages*****/
+
 
 .carousel{
     margin-top: 20px;
@@ -46,9 +76,6 @@
     background-color:  #F4F2EE;
 }
 
-#center{
-    text-align: center;
-}
 
 
 
@@ -309,24 +336,7 @@
 }
 
 
-.piedpage{
-    margin-top: 12px;
-   
-}
 
-
-#placement{
-    margin-top: 9px;
-    text-align: justify;
-    width: 800px;
-}
-
-#placement1{
-    margin-top: 9px;
-    margin-left: 60px;
-    text-align: justify;
-    width: 680px;
-}
 
 #placement2{
     margin-top: 9px;
@@ -475,3 +485,4 @@ padding:5px;
 input::-webkit-input-placeholder {font-style:italic;font-size:10px;}
 
 input:-moz-placeholder {font-style:italic;font-size:10px;}
+
