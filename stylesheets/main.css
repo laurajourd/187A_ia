@@ -50,6 +50,10 @@
     margin-left:20px;
 }
 
+.hidediv{
+    display:none;
+}
+
 .placement{
     margin-top: 9px;
     text-align: justify;

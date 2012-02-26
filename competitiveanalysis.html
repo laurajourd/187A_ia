@@ -73,34 +73,46 @@
             useful place to begin our own discussion of redesign the IA and also to present to the class when we explain our design.
             That is, when explaining our design we can start by reviewing the  main sites that gave us inspiration.</p>
                   <div class="row">
-                      <div class="span4 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#main"><b>Main Navigation Bar</b></a></p>
+                      <a class="bluecolor" id="_main_table" href="#main"><div class="span4 background2">
+                          <p class="bluecolor">
+                              <b>Main Navigation Bar</b></p>
+                      </div></a>
+                      <a class="bluecolor" id="_about_table" href="#about"><div class="span3 background2">
+                          <p class="bluecolor"><b>What is under "About"?</b></p>
+                      </div></a>
+                    <a class="bluecolor" id="_admiss_table" href="#admissions"><div class="span3 background2">
+                          <p class="bluecolor"><b>What is under "Admissions"?</b></p>
                       </div>
-                      <div class="span3 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#about"><b>What is under "About"?</b></a></p>
-                      </div>
-                      <div class="span3 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#admissions"><b>What is under "Admissions"?</b></a></p>
-                      </div>
+                    </a>
                   </div>
                   <div class="row">
+                      <a class="bluecolor" id="_acad_table" href="#academics">
                       <div class="span4 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#academics"><b>What is under "Academics"?</b></p>
+                          <p class="bluecolor"><b>What is under "Academics"?</b></p>
                       </div>
+                          </a>
+                      <a class="bluecolor" id="_research_table" href="#research">
                       <div class="span3 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#research"><b>What is under "Research"?</b></p>
+                          <p class="bluecolor"><b>What is under "Research"?</b></p>
                       </div>
+                          </a>
+                      <a class="bluecolor" id="_life_table" href="#campus">
                       <div class="span3 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#campus"><b>What is under "Campus Life"?</b></p>
+                          <p class="bluecolor"><b>What is under "Campus Life"?</b></p>
                       </div>
+                          </a>
                   </div>
                   <div class="row">
+                      <a class="bluecolor" id="_home_table" href="#homepage">
                       <div class="span4 background2">
-                          <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#homepage"><b>Home Page Elements</b></a></p>
+                          <p class="bluecolor"><b>Home Page Elements</b></p>
                       </div>
+                          </a>
+                      <a class="bluecolor" id="_count_table" href="#navcount">
                       <div class="span3 background2">
-                <p class="bluecolor"><a class="bluecolor" href="competitiveanalysis.html#navcount"><b>Main Navigation Count</b></a></p>
+                <p class="bluecolor"><b>Main Navigation Count</b></p>
               </div>
+                          </a>
                   </div>
               </div>
               <!--end text-->
@@ -108,8 +120,9 @@
       </div>
 
       <div class="row">
-        <div class="span12 background" id="main">
+        <div class="span12 background" id="main" onclick="document.getElementById('main_table').style.display = 'block'">
           <p class="bluecolor"><b>Main Navigation Bar</b></p>
+            <div class="hidediv" id="main_table">
               <table class="CAtable">
                       <tr>
                           <th>Stanford University</th>
@@ -245,14 +258,16 @@
 
                   </table>
               <!--end main navigation table-->
-            <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
+                <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
+            </div>
         </div>
       </div>
       <!--end main navigation box-->
 
       <div class="row">
-          <div class="span12 background" id="navcount">
+          <div class="span12 background" id="navcount" onclick="document.getElementById('count_table').style.display = 'block'">
               <p class="bluecolor"><b>Main Navigation Count</b></p>
+              <div class="hidediv" id="count_table">
               <table id="main_nav_count" class="CAtable">
                   <thead>
                   <tr> <!-- labels -->
@@ -344,14 +359,15 @@
                   </tr>
               </table>
               <!--end main nav count table-->
-
-              <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
+                  <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
+          </div>
           </div>
       </div>
 
       <div class="row">
-          <div class="span12 background" id="homepage">
+          <div class="span12 background" id="homepage" onclick="document.getElementById('home_table').style.display = 'block'">
               <p class="bluecolor"><b>Home Page Elements</b></p>
+              <div class="hidediv" id="home_table">
               <table class="CAtable"> <!-- homepage elements -->
                   <!--universities-->
                   <tr> <!-- universities -->
@@ -538,15 +554,16 @@
                   </tbody>
               </table>
               <!--end homepage elements table-->
-
-              <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
+                  <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
 
           </div>
       </div>
+      </div>
 
       <div class="row">
-        <div class="span12 background" id="about">
+        <div class="span12 background" id="about" onclick="document.getElementById('about_table').style.display = 'block'">
           <p class="bluecolor"><b>What is under "About"?</b></p>
+            <div class="hidediv" id="about_table">
             <table class="CAtable">
                 <tr>
                     <th>Harvard University</th>
@@ -694,284 +711,287 @@
                 </tr>
             </table>
             <!--end about section table-->
-            <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
+                <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
         </div>
+      </div>
       </div>
 
 
       <div class="row">
             
-        <div class="span12 background" id="admissions">
+        <div class="span12 background" id="admissions" onclick="document.getElementById('admiss_table').style.display = 'block'">
           <p class="bluecolor"><b>What is under "Admissions"?</b></p>
-            <table class="CAtable">
-                <tr>
-                    <th>Harvard University</th>
-                    <th>Stanford University</th>
-                    <th>Washington State University</th>
-                    <th>Johns Hopkins University</th>
-                    <th>University of Indianapolis</th>
-                    <th>UL Lafayette<Br />("Prospective Students")</th>
-                    <th>Our Redesign</th>
-                </tr>
-                <tr>
-                    <td>Undergraduate Admissions & Aid</td>
-                    <td>Undergraduate</td>
-                    <td>Undergraduate</td>
-                    <td>Office of Undergraduate Admissions</td>
-                    <td>Freshmen & Transfer Students</td>
-                    <td>Freshman Students</td>
-                    <td><b>Undergraduate</b></td>
-                </tr>
-                <tr>
-                    <td>Graduate & Professional Schools</td>
-                    <td>Graduate</td>
-                    <td>Graduate</td>
-                    <td>Additional Undergraduate Programs</td>
-                    <td>Adult Learners</td>
-                    <td>Reentry Students (Returning Students)</td>
-                    <td><b>Graduate</b></td>
-                </tr>
-                <tr>
-                    <td>Continuing Education</td>
-                    <td>Financial Aid</td>
-                    <td>Professional</td>
-                    <td>Graduate</td>
-                    <td>Master's & Doctoral</td>
-                    <td>Transfer Students</td>
-                    <td><b>International Students</b></td>
-                </tr>
-                <tr>
-                    <td>Summer Programs</td>
-                    <td>Professional, Continuing, K-12</td>
-                    <td>Online Courses</td>
-                    <td>Part Time, Non-Degree, Summer</td>
-                    <td></td>
-                    <td>Office of Disability Services</td>
-                    <td><b>Summer Session</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Summer Session</td>
-                    <td>More</td>
-                    <td>Visitng Johns Hopkins</td>
-                    <td></td>
-                    <td>High School Dual Enrollment Students</td>
-                    <td><b>Non-Degree Programs</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>International Students</td>
-                    <td></td>
-                    <td>25 Plus Adult Students</td>
-                    <td><b>Financial Aid & Scholarships</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>Financial Aid</td>
-                    <td></td>
-                    <td>Summer Visiting Students</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>Course Catalogs</td>
-                    <td></td>
-                    <td>Graduate Students</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>Course Catalogs</td>
-                    <td></td>
-                    <td>Voluntary System of Accountability (VSA)</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td>Course Catalogs</td>
-                    <td></td>
-                    <td>House Concurrent Resolution 197 Performance Effectiveness Report</td>
-                    <td></td>
-                </tr>
+            <div class="hidediv" id="admiss_table">
+                <table class="CAtable">
+                    <tr>
+                        <th>Harvard University</th>
+                        <th>Stanford University</th>
+                        <th>Washington State University</th>
+                        <th>Johns Hopkins University</th>
+                        <th>University of Indianapolis</th>
+                        <th>UL Lafayette<Br />("Prospective Students")</th>
+                        <th>Our Redesign</th>
+                    </tr>
+                    <tr>
+                        <td>Undergraduate Admissions & Aid</td>
+                        <td>Undergraduate</td>
+                        <td>Undergraduate</td>
+                        <td>Office of Undergraduate Admissions</td>
+                        <td>Freshmen & Transfer Students</td>
+                        <td>Freshman Students</td>
+                        <td><b>Undergraduate</b></td>
+                    </tr>
+                    <tr>
+                        <td>Graduate & Professional Schools</td>
+                        <td>Graduate</td>
+                        <td>Graduate</td>
+                        <td>Additional Undergraduate Programs</td>
+                        <td>Adult Learners</td>
+                        <td>Reentry Students (Returning Students)</td>
+                        <td><b>Graduate</b></td>
+                    </tr>
+                    <tr>
+                        <td>Continuing Education</td>
+                        <td>Financial Aid</td>
+                        <td>Professional</td>
+                        <td>Graduate</td>
+                        <td>Master's & Doctoral</td>
+                        <td>Transfer Students</td>
+                        <td><b>International Students</b></td>
+                    </tr>
+                    <tr>
+                        <td>Summer Programs</td>
+                        <td>Professional, Continuing, K-12</td>
+                        <td>Online Courses</td>
+                        <td>Part Time, Non-Degree, Summer</td>
+                        <td></td>
+                        <td>Office of Disability Services</td>
+                        <td><b>Summer Session</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Summer Session</td>
+                        <td>More</td>
+                        <td>Visitng Johns Hopkins</td>
+                        <td></td>
+                        <td>High School Dual Enrollment Students</td>
+                        <td><b>Non-Degree Programs</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>International Students</td>
+                        <td></td>
+                        <td>25 Plus Adult Students</td>
+                        <td><b>Financial Aid & Scholarships</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Financial Aid</td>
+                        <td></td>
+                        <td>Summer Visiting Students</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Course Catalogs</td>
+                        <td></td>
+                        <td>Graduate Students</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Course Catalogs</td>
+                        <td></td>
+                        <td>Voluntary System of Accountability (VSA)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Course Catalogs</td>
+                        <td></td>
+                        <td>House Concurrent Resolution 197 Performance Effectiveness Report</td>
+                        <td></td>
+                    </tr>
 
-            </table>
-            <!--end admissions table-->
-            <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
-        </div>
+                </table>
+                <!--end admissions table-->
+                <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
+            </div>
+      </div>
       </div>
 
 
           <div class="row">
-        <div class="span12 background" id="academics">
+        <div class="span12 background" id="academics" onclick="document.getElementById('acad_table').style.display = 'block'">
           <p class="bluecolor"><b>What is under "Academics"?</b></p>
+            <div class="hidediv" id="acad_table">
+                <table class="CAtable">
+                    <tr>
+                        <th>Harvard University</th>
+                        <th>Stanford University</th>
+                        <th>Washington State University</th>
+                        <th>Johns Hopkins University</th>
+                        <th>University of Indianapolis<br />("Majors")</th>
+                        <th>UL Lafayette</th>
+                        <th>Our Redesign</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Schools</td>
+                        <td>Majors/Fields</td>
+                        <td>Schools</td>
+                        <td>Bachelor's Programs</td>
+                        <td>Undergraduate and Graduate Programs</td>
+                        <td><b>Departments & Disciplines</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Departments & Programs</td>
+                        <td>College/Units</td>
+                        <td>Departments and Disciplines</td>
+                        <td>Associate's Programs</td>
+                        <td>University Honors Program</td>
+                        <td><b>Distance Education & E-learning</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Academic Calendar & Courses</td>
+                        <td>Summer Programs</td>
+                        <td>Undergraduate Studies</td>
+                        <td>Graduate Programs</td>
+                        <td>Graduate School</td>
+                        <td><b>Continuing Education</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Undergraduate Academic Life</td>
+                        <td>Study Abroad</td>
+                        <td>Graduate Studies</td>
+                        <td>Other Resources</td>
+                        <td>Distance and Electronic Learning</td>
+                        <td><b>Academic Calendar</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Graduate Academic Life</td>
+                        <td>Library</td>
+                        <td>JHU Around the World</td>
+                        <td>Not Sure What to Study?</td>
+                        <td>Evening & Continuing Education</td>
+                        <td><b>Current Course Offerings</b></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Professional, Continuing, & K-12</td>
+                        <td>Summer</td>
+                        <td>Part Time and Non-Degree</td>
+                        <td></td>
+                        <td>Academic Support for Students</td>
 
-            <table class="CAtable">
-                <tr>
-                    <th>Harvard University</th>
-                    <th>Stanford University</th>
-                    <th>Washington State University</th>
-                    <th>Johns Hopkins University</th>
-                    <th>University of Indianapolis<br />("Majors")</th>
-                    <th>UL Lafayette</th>
-                    <th>Our Redesign</th>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Schools</td>
-                    <td>Majors/Fields</td>
-                    <td>Schools</td>
-                    <td>Bachelor's Programs</td>
-                    <td>Undergraduate and Graduate Programs</td>
-                    <td><b>Departments & Disciplines</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Departments & Programs</td>
-                    <td>College/Units</td>
-                    <td>Departments and Disciplines</td>
-                    <td>Associate's Programs</td>
-                    <td>University Honors Program</td>
-                    <td><b>Distance Education & E-learning</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Academic Calendar & Courses</td>
-                    <td>Summer Programs</td>
-                    <td>Undergraduate Studies</td>
-                    <td>Graduate Programs</td>
-                    <td>Graduate School</td>
-                    <td><b>Continuing Education</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Undergraduate Academic Life</td>
-                    <td>Study Abroad</td>
-                    <td>Graduate Studies</td>
-                    <td>Other Resources</td>
-                    <td>Distance and Electronic Learning</td>
-                    <td><b>Academic Calendar</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Graduate Academic Life</td>
-                    <td>Library</td>
-                    <td>JHU Around the World</td>
-                    <td>Not Sure What to Study?</td>
-                    <td>Evening & Continuing Education</td>
-                    <td><b>Current Course Offerings</b></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td>Professional, Continuing, & K-12</td>
-                    <td>Summer</td>
-                    <td>Part Time and Non-Degree</td>
-                    <td></td>
-                    <td>Academic Support for Students</td>
+                        <td><b>Academic Support Services</b> </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Summer</td>
+                        <td></td>
+                        <td></td>
+                        <td>Courses and Calendar</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Distance Education</td>
+                        <td></td>
+                        <td></td>
+                        <td>Awards and Recognition</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Online Academic Catalogs</td>
+                        <td></td>
+                        <td></td>
+                        <td>Accreditation and Accredited programs</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Academic Calendars</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Course Listings</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Admissions Information</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Registration Information</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Academic Advising</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Libraries</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+                <!--end academics table-->
+                <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
 
-                    <td><b>Academic Support Services</b> </td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Summer</td>
-                    <td></td>
-                    <td></td>
-                    <td>Courses and Calendar</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Distance Education</td>
-                    <td></td>
-                    <td></td>
-                    <td>Awards and Recognition</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Online Academic Catalogs</td>
-                    <td></td>
-                    <td></td>
-                    <td>Accreditation and Accredited programs</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Academic Calendars</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Course Listings</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Admissions Information</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Registration Information</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Academic Advising</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td>Libraries</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-            </table>
-            <!--end academics table-->
-            <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
-
-        </div>
       </div>
-
+      </div>
+    </div>
       <div class="row">
-          <div class="span12 background" id="campus">
+          <div class="span12 background" id="campus" onclick="document.getElementById('life_table').style.display = 'block'">
               <p class="bluecolor"><b>What is under "Campus Life"?</b></p>
-
+              <div class="hidediv" id="life_table">
               <table class="CAtable">
                   <tr>
                       <th>Harvard University</th>
@@ -1083,15 +1103,14 @@
                   </tr>
               </table>
               <!--end campus life table-->
-
-              <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
+                  <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
           </div>
       </div>
-
+      </div>
           <div class="row">
         <div class="span12 background" id="research">
-          <p class="bluecolor"><b>What is under 'Research'?</b></p>
-
+          <p class="bluecolor"><b>What is under "Research"?</b></p>
+            <div class="hidediv" id="research_table">
             <table class="CAtable">
                 <tr>
                     <th>Harvard University</th>
@@ -1209,9 +1228,10 @@
                 </tr>
             </table>
             <!--end research table-->
+                <p class="totop"><a href="competitiveanalysis.html">[Back to top]</a></p>
 
-            <a href="competitiveanalysis.html"><p class="totop">[Back to top]</p></a>
         </div>
+            </div>
       </div>
 
 

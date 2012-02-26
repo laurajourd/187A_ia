@@ -83,6 +83,94 @@ $(function(){
         $('#abdul_').show();
     });
 
+    $('#_main_table').click(function(){
+        $('#main_table').show();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_count_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').show();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_home_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').show();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_about_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').show();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_admiss_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').show();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_acad_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').show();
+        $('#life_table').hide();
+        $('#research_table').hide();
+    });
+
+    $('#_life_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').show();
+        $('#research_table').hide();
+    });
+
+    $('#_research_table').click(function(){
+        $('#main_table').hide();
+        $('#count_table').hide();
+        $('#home_table').hide();
+        $('#about_table').hide();
+        $('#admiss_table').hide();
+        $('#acad_table').hide();
+        $('#life_table').hide();
+        $('#research_table').show();
+    });
+
 
   /*
     Simple image gallery. Use default settings
