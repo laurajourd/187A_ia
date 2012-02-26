@@ -23,8 +23,6 @@ $(function(){
         function () {
             $("a", this).css({"background-color":"#C1C1C1"});
             $(".navx", this).show();
-
-
         },
         function () {
             $("a", this).css("background-color","#F4F2EE");
@@ -32,6 +30,14 @@ $(function(){
         }
     );
 
+    $(".navx li").hover(
+        function(){
+            $(".list_fleur", this).css("display","inline");
+        },
+        function(){
+            $(".list_fleur", this).css("display","none");
+        }
+    );
 
   /*toggle visibility*/
     $('#_shelly').click(function(){

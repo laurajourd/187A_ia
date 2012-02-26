@@ -23,16 +23,6 @@
     font-size: small;
 }
 
-
-
-#bar{
-    border: 1px solid #C1C1C1;
-}
-
-#black{
-    color: black;
-}
-
 #bluecolor{
     color: #000080;
     text-align: center;
@@ -48,7 +38,7 @@
 }
 
 .carousel{
-    margin-top: 15px;
+    margin-top: 20px;
     border: 4px solid white;
 }
 
@@ -60,40 +50,52 @@
     text-align: center;
 }
 
-#center2{
-    text-align: center;
-    margin-top:5px;
-    color: white;
-}
+
 
 #design{
     font-family: Calibri;
     font-size: large;
-    margin-left:8px;
+    margin-left:34px;
 }
 
 #design2{
-    margin-left: 100px;
+    margin-left: 45px;
 }
 
 #design3{
-    text-align: center;
-    font-size: medium;
+    font-family: Calibri;
+    text-align:left;
+    margin-left:35px;
+    font-size:large;
     color:#C40C1D;
 }
 
 #design4{
-   
     border: 1px solid #C1C1C1;
-    margin-left: 25px;
+    margin-left: 34px;
     height: 50px;
 }
  #design5{
     font-family: Calibri;
     font-size: large;
-    margin-left:8px;
+    margin-left:34px;
     color: green;
 }
+
+.homelinks{
+    text-decoration:none;
+}
+
+.homelinks:hover{
+    font-style:italic;
+    text-decoration:none;
+}
+
+
+.social{
+    margin-left:10px;
+}
+
 
 .dropdown-menu{
     background-color: #F4F2EE;
@@ -123,35 +125,39 @@
     color: #778899;
 }
 
+/*****GATEWAYS*****/
+#center2{
+    text-align: center;
+    margin-top:20px;
+    color: white;
+}
+
 #hnavbar{
     background-color: #F4F2EE;
     list-style-type: none;
-    width: 160px;
-    margin-left: 70px;
-    padding: 6px;
-    border: 3px solid #C1C1C1;
+    width: 180px;
+    margin-left: 50px;
+    border: 4px solid #C1C1C1;
 }
 
-#hnavbar ol{  		
-       	    color: #F4F2EE;
-       	    border-bottom: 3px solid black;
-       	    font-size: 18px;
-              
+.black{
+    color: black;
+    font: 14px italic Verdana, sans serif;
+    padding:10px;
 }
 
-
-#hnavbar ol li{
-                margin: 5px;
-                padding: 5px;
+#black_last{
+    color: black;
+    font: 14px italic Verdana, sans serif;
+    padding:10px;
 }
 
 #hnavbar a{
-    
     display: block;
     background-color: #F4F2EE;
-    border: 1px solid #F4F2EE;
-    padding: .5em;
+    padding: 10px;
     color: #000000;
+
 }
 
 #hnavbar a:hover{
@@ -160,10 +166,14 @@
     color: #ffffff;
 }
 
+/*****end gateways*****/
+
+
 #horizontal{
     border: 1px dotted;
-    width: 267px;
+    width: 250px;
     color:#C1C1C1;
+    margin-left:25px;
 }
 
 #imageplace{
@@ -244,7 +254,18 @@
 
 .navx li a:hover{
     color:#F4F2EE;
-d/*****end navigation bar*****/
+}
+
+
+.list_fleur{
+    display:none;
+    float:left;
+    width:20px;
+    height:20px;
+    padding-right:5px;
+}
+
+/*****end navigation bar*****/
 
 
 #mapplace{
