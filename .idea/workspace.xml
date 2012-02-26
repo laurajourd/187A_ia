@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users.html" afterPath="$PROJECT_DIR$/users.html" />
+      <change type="DELETED" beforePath="C:\Users\Admin\187A_ia\~$oject4laura.docx" afterPath="" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +36,7 @@
       <file leaf-file-name="users.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/users.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="592" column="58" selection-start="35507" selection-end="35507" vertical-scroll-proportion="0.41821247">
+            <state line="590" column="73" selection-start="35271" selection-end="35271" vertical-scroll-proportion="0.10286678">
               <folding />
             </state>
           </provider>
@@ -423,7 +423,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="592" column="58" selection-start="35507" selection-end="35507" vertical-scroll-proportion="0.41821247">
+        <state line="590" column="73" selection-start="35271" selection-end="35271" vertical-scroll-proportion="0.10286678">
           <folding />
         </state>
       </provider>
