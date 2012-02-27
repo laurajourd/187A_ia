@@ -138,7 +138,13 @@
     font-style:italic;
     text-decoration:none;
 }
-
+.morelinks{
+    width:100px;
+    margin-left:170px;
+    font-size:15px;
+    font-family: Calibri;
+    color:#C40C1D;
+}
 
 .social{
     margin-left:10px;
@@ -384,7 +390,7 @@
     background-color: #C40C1D;
     text-align: center;
     color:#ffffff;
-    margin:25px;
+    margin:25px 25px 0px 25px;
     padding:10px;
     font-size: large;
 }
