@@ -1,0 +1,1164 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../About_UL_Lafayette_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:255px;
+    width:190px;
+    height:905px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:196px;
+    height:911px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:444px;
+    width:186px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:0px;
+    top:255px;
+    width:190px;
+    height:905px
+}
+
+.u2_original {
+    background-image: url('../About_UL_Lafayette_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:181px;
+    top:308px;
+    width:779px;
+    height:852px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:785px;
+    height:858px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:418px;
+    width:775px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:181px;
+    top:308px;
+    width:779px;
+    height:852px
+}
+
+.u4_original {
+    background-image: url('../About_UL_Lafayette_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:780px;
+    top:308px;
+    width:180px;
+    height:892px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:898px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:438px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:780px;
+    top:308px;
+    width:180px;
+    height:892px
+}
+
+.u6 {
+    position:absolute;
+    left:787px;
+    top:1022px;
+    width:170px;
+    height:68px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_original {
+    background-image: url('../About_UL_Lafayette_files/u7_original.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:180px;
+    top:210px;
+    width:601px;
+    height:81px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:607px;
+    height:87px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:597px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:180px;
+    top:210px;
+    width:601px;
+    height:81px
+}
+
+.u9_original {
+    background-image: url('../About_UL_Lafayette_files/u9_original.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:161px;
+    width:960px;
+    height:39px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:45px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:0px;
+    top:161px;
+    width:960px;
+    height:39px
+}
+
+.u11_original {
+    background-image: url('../About_UL_Lafayette_files/u11_original.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:960px;
+    height:150px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px
+}
+
+.u13_original {
+    background-image: url('../About_UL_Lafayette_files/u13_original.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:960px;
+    height:5px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:960px;
+    height:5px
+}
+
+.u15 {
+    position:absolute;
+    left:247px;
+    top:237px;
+    width:356px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_container {
+    position:absolute;
+    left:243px;
+    top:318px;
+    width:480px;
+    height:207px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:207px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:96px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:243px;
+    top:318px;
+    width:480px;
+    height:207px
+}
+
+.u18 {
+    position:absolute;
+    left:39px;
+    top:357px;
+    width:150px;
+    height:180px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_original {
+    background-image: url('../About_UL_Lafayette_files/u19_original.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:780px;
+    top:210px;
+    width:180px;
+    height:80px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:780px;
+    top:210px;
+    width:180px;
+    height:80px
+}
+
+.u21 {
+    position:absolute;
+    left:783px;
+    top:216px;
+    width:170px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22_original {
+    background-image: url('../About_UL_Lafayette_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:290px;
+    width:960px;
+    height:20px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:26px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:0px;
+    top:290px;
+    width:960px;
+    height:20px
+}
+
+.u24_original {
+    background-image: url('../About_UL_Lafayette_files/u24_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:0px;
+    top:210px;
+    width:180px;
+    height:80px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:86px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:0px;
+    top:210px;
+    width:180px;
+    height:80px
+}
+
+.u26 {
+    position:absolute;
+    left:40px;
+    top:291px;
+    width:300px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_original {
+    background-image: url('../About_UL_Lafayette_files/u27_original.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:87px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px
+}
+
+.u29_text {
+    position:absolute;
+    left:60px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:60px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u30_text {
+    position:absolute;
+    left:180px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:180px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u31_text {
+    position:absolute;
+    left:380px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:380px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u32_text {
+    position:absolute;
+    left:530px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:530px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u33_text {
+    position:absolute;
+    left:700px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:700px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u34_text {
+    position:absolute;
+    left:850px;
+    top:172px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:850px;
+    top:172px;
+    width:150px;
+    height:20px
+}
+
+.u35 {
+    position:absolute;
+    left:240px;
+    top:753px;
+    width:487px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:244px;
+    top:543px;
+    width:476px;
+    height:573px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_container {
+    position:absolute;
+    left:789px;
+    top:540px;
+    width:141px;
+    height:200px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:141px;
+    height:200px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:92px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:789px;
+    top:540px;
+    width:141px;
+    height:200px
+}
+
+.u39 {
+    position:absolute;
+    left:789px;
+    top:743px;
+    width:150px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:794px;
+    top:20px;
+    width:170px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_original {
+    background-image: url('../About_UL_Lafayette_files/u41_original.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:788px;
+    top:49px;
+    width:161px;
+    height:30px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:167px;
+    height:36px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:788px;
+    top:49px;
+    width:161px;
+    height:30px
+}
+
+.u43 {
+    position:absolute;
+    left:790px;
+    top:51px;
+    width:158px;
+    height:26px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Helvetica Neue';
+    font-size: 10px;
+    color:#555555;
+    font-style:italic;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u44_original {
+    background-image: url('../About_UL_Lafayette_files/u44_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:927px;
+    top:55px;
+    width:20px;
+    height:20px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:20px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:927px;
+    top:55px;
+    width:20px;
+    height:20px
+}
+
+.u46_original {
+    background-image: url('../About_UL_Lafayette_files/u46_original.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:205px;
+    width:960px;
+    height:5px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:0px;
+    top:205px;
+    width:960px;
+    height:5px
+}
+
+.u48_original {
+    background-image: url('../About_UL_Lafayette_files/u48_original.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:0px;
+    top:1156px;
+    width:960px;
+    height:111px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:117px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:0px;
+    top:1156px;
+    width:960px;
+    height:111px
+}
+
+.u50_original {
+    background-image: url('../About_UL_Lafayette_files/u13_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:1151px;
+    width:960px;
+    height:5px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:0px;
+    top:1151px;
+    width:960px;
+    height:5px
+}
+
+.u52_original {
+    background-image: url('../About_UL_Lafayette_files/u13_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:1265px;
+    width:960px;
+    height:5px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:0px;
+    top:1265px;
+    width:960px;
+    height:5px
+}
+
+.u54_original {
+    background-image: url('../About_UL_Lafayette_files/u54_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:90px;
+    top:1176px;
+    width:60px;
+    height:60px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:60px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:90px;
+    top:1176px;
+    width:60px;
+    height:60px
+}
+
+.u56 {
+    position:absolute;
+    left:180px;
+    top:1176px;
+    width:300px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:710px;
+    top:1186px;
+    width:160px;
+    height:96px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
