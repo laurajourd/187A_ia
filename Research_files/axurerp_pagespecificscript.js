@@ -49,38 +49,96 @@ function OnLoad(e) {
 
 }
 
-var u31 = document.getElementById('u31');
-gv_vAlignTable['u31'] = 'top';
-var u36 = document.getElementById('u36');
+var u50 = document.getElementById('u50');
+gv_vAlignTable['u50'] = 'top';
+var u51 = document.getElementById('u51');
+gv_vAlignTable['u51'] = 'top';
+var u52 = document.getElementById('u52');
+gv_vAlignTable['u52'] = 'top';
+var u20 = document.getElementById('u20');
 
-var u16 = document.getElementById('u16');
+var u21 = document.getElementById('u21');
 
-var u17 = document.getElementById('u17');
-gv_vAlignTable['u17'] = 'center';
+var u22 = document.getElementById('u22');
+gv_vAlignTable['u22'] = 'center';
+var u23 = document.getElementById('u23');
+
+var u24 = document.getElementById('u24');
+gv_vAlignTable['u24'] = 'center';
+var u25 = document.getElementById('u25');
+
+var u26 = document.getElementById('u26');
+gv_vAlignTable['u26'] = 'center';
+var u27 = document.getElementById('u27');
+
 var u28 = document.getElementById('u28');
 gv_vAlignTable['u28'] = 'center';
 var u29 = document.getElementById('u29');
 
-var u8 = document.getElementById('u8');
-
 var u30 = document.getElementById('u30');
 gv_vAlignTable['u30'] = 'center';
-var u21 = document.getElementById('u21');
-
-var u6 = document.getElementById('u6');
-
+var u31 = document.getElementById('u31');
+gv_vAlignTable['u31'] = 'top';
 var u32 = document.getElementById('u32');
 
-var u15 = document.getElementById('u15');
-gv_vAlignTable['u15'] = 'center';
-var u13 = document.getElementById('u13');
-gv_vAlignTable['u13'] = 'center';
-var u14 = document.getElementById('u14');
+var u33 = document.getElementById('u33');
+gv_vAlignTable['u33'] = 'center';
+var u34 = document.getElementById('u34');
+gv_vAlignTable['u34'] = 'top';
+var u35 = document.getElementById('u35');
+gv_vAlignTable['u35'] = 'top';
+var u36 = document.getElementById('u36');
 
-var u4 = document.getElementById('u4');
-
+var u37 = document.getElementById('u37');
+gv_vAlignTable['u37'] = 'center';
 var u38 = document.getElementById('u38');
 
+var u39 = document.getElementById('u39');
+gv_vAlignTable['u39'] = 'top';
+var u0 = document.getElementById('u0');
+
+var u1 = document.getElementById('u1');
+gv_vAlignTable['u1'] = 'center';
+var u2 = document.getElementById('u2');
+
+var u3 = document.getElementById('u3');
+gv_vAlignTable['u3'] = 'center';
+var u4 = document.getElementById('u4');
+
+var u5 = document.getElementById('u5');
+gv_vAlignTable['u5'] = 'center';
+var u6 = document.getElementById('u6');
+
+var u7 = document.getElementById('u7');
+gv_vAlignTable['u7'] = 'center';
+var u8 = document.getElementById('u8');
+
+var u9 = document.getElementById('u9');
+gv_vAlignTable['u9'] = 'center';
+var u42 = document.getElementById('u42');
+gv_vAlignTable['u42'] = 'center';
+var u40 = document.getElementById('u40');
+gv_vAlignTable['u40'] = 'top';
+var u41 = document.getElementById('u41');
+
+var u45 = document.getElementById('u45');
+
+u45.style.cursor = 'pointer';
+if (bIE) u45.attachEvent("onclick", Clicku45);
+else u45.addEventListener("click", Clicku45, true);
+function Clicku45(e)
+{
+windowEvent = e;
+
+
+if (true) {
+
+	self.location.href="Admission.html" + GetQuerystring();
+
+}
+
+}
+gv_vAlignTable['u45'] = 'top';
 var u43 = document.getElementById('u43');
 
 u43.style.cursor = 'pointer';
@@ -117,70 +175,6 @@ if (true) {
 
 }
 gv_vAlignTable['u44'] = 'top';
-var u40 = document.getElementById('u40');
-gv_vAlignTable['u40'] = 'top';
-var u1 = document.getElementById('u1');
-gv_vAlignTable['u1'] = 'center';
-var u37 = document.getElementById('u37');
-gv_vAlignTable['u37'] = 'center';
-var u26 = document.getElementById('u26');
-gv_vAlignTable['u26'] = 'center';
-var u41 = document.getElementById('u41');
-
-var u10 = document.getElementById('u10');
-
-var u11 = document.getElementById('u11');
-gv_vAlignTable['u11'] = 'center';
-var u3 = document.getElementById('u3');
-gv_vAlignTable['u3'] = 'center';
-var u12 = document.getElementById('u12');
-
-var u39 = document.getElementById('u39');
-gv_vAlignTable['u39'] = 'top';
-var u9 = document.getElementById('u9');
-gv_vAlignTable['u9'] = 'center';
-var u35 = document.getElementById('u35');
-gv_vAlignTable['u35'] = 'top';
-var u27 = document.getElementById('u27');
-
-var u7 = document.getElementById('u7');
-gv_vAlignTable['u7'] = 'center';
-var u42 = document.getElementById('u42');
-gv_vAlignTable['u42'] = 'center';
-var u23 = document.getElementById('u23');
-
-var u24 = document.getElementById('u24');
-gv_vAlignTable['u24'] = 'center';
-var u25 = document.getElementById('u25');
-
-var u46 = document.getElementById('u46');
-
-u46.style.cursor = 'pointer';
-if (bIE) u46.attachEvent("onclick", Clicku46);
-else u46.addEventListener("click", Clicku46, true);
-function Clicku46(e)
-{
-windowEvent = e;
-
-
-if (true) {
-
-	self.location.href="Academics.html" + GetQuerystring();
-
-}
-
-}
-gv_vAlignTable['u46'] = 'top';
-var u2 = document.getElementById('u2');
-
-var u18 = document.getElementById('u18');
-
-var u19 = document.getElementById('u19');
-gv_vAlignTable['u19'] = 'center';
-var u20 = document.getElementById('u20');
-
-var u5 = document.getElementById('u5');
-gv_vAlignTable['u5'] = 'center';
 var u48 = document.getElementById('u48');
 
 u48.style.cursor = 'pointer';
@@ -199,10 +193,24 @@ if (true) {
 
 }
 gv_vAlignTable['u48'] = 'top';
-var u22 = document.getElementById('u22');
-gv_vAlignTable['u22'] = 'center';
-var u49 = document.getElementById('u49');
-gv_vAlignTable['u49'] = 'top';
+var u46 = document.getElementById('u46');
+
+u46.style.cursor = 'pointer';
+if (bIE) u46.attachEvent("onclick", Clicku46);
+else u46.addEventListener("click", Clicku46, true);
+function Clicku46(e)
+{
+windowEvent = e;
+
+
+if (true) {
+
+	self.location.href="Academics.html" + GetQuerystring();
+
+}
+
+}
+gv_vAlignTable['u46'] = 'top';
 var u47 = document.getElementById('u47');
 
 u47.style.cursor = 'pointer';
@@ -221,34 +229,26 @@ if (true) {
 
 }
 gv_vAlignTable['u47'] = 'top';
-var u50 = document.getElementById('u50');
-gv_vAlignTable['u50'] = 'top';
-var u51 = document.getElementById('u51');
-gv_vAlignTable['u51'] = 'top';
-var u45 = document.getElementById('u45');
+var u49 = document.getElementById('u49');
+gv_vAlignTable['u49'] = 'top';
+var u10 = document.getElementById('u10');
 
-u45.style.cursor = 'pointer';
-if (bIE) u45.attachEvent("onclick", Clicku45);
-else u45.addEventListener("click", Clicku45, true);
-function Clicku45(e)
-{
-windowEvent = e;
+var u11 = document.getElementById('u11');
+gv_vAlignTable['u11'] = 'center';
+var u12 = document.getElementById('u12');
 
+var u13 = document.getElementById('u13');
+gv_vAlignTable['u13'] = 'center';
+var u14 = document.getElementById('u14');
 
-if (true) {
+var u15 = document.getElementById('u15');
+gv_vAlignTable['u15'] = 'center';
+var u16 = document.getElementById('u16');
 
-	self.location.href="Admission.html" + GetQuerystring();
+var u17 = document.getElementById('u17');
+gv_vAlignTable['u17'] = 'center';
+var u18 = document.getElementById('u18');
 
-}
-
-}
-gv_vAlignTable['u45'] = 'top';
-var u52 = document.getElementById('u52');
-gv_vAlignTable['u52'] = 'top';
-var u33 = document.getElementById('u33');
-gv_vAlignTable['u33'] = 'center';
-var u34 = document.getElementById('u34');
-gv_vAlignTable['u34'] = 'top';
-var u0 = document.getElementById('u0');
-
+var u19 = document.getElementById('u19');
+gv_vAlignTable['u19'] = 'center';
 if (window.OnLoad) OnLoad();
