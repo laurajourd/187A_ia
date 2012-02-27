@@ -52,11 +52,11 @@ function OnLoad(e) {
 var u31 = document.getElementById('u31');
 
 var u36 = document.getElementById('u36');
-gv_vAlignTable['u36'] = 'center';
-var u16 = document.getElementById('u16');
 
+var u16 = document.getElementById('u16');
+gv_vAlignTable['u16'] = 'top';
 var u17 = document.getElementById('u17');
-gv_vAlignTable['u17'] = 'center';
+
 var u28 = document.getElementById('u28');
 gv_vAlignTable['u28'] = 'center';
 var u29 = document.getElementById('u29');
@@ -66,9 +66,11 @@ var u8 = document.getElementById('u8');
 var u30 = document.getElementById('u30');
 gv_vAlignTable['u30'] = 'center';
 var u21 = document.getElementById('u21');
-gv_vAlignTable['u21'] = 'center';
+gv_vAlignTable['u21'] = 'top';
 var u6 = document.getElementById('u6');
 
+var u57 = document.getElementById('u57');
+gv_vAlignTable['u57'] = 'top';
 var u32 = document.getElementById('u32');
 gv_vAlignTable['u32'] = 'center';
 var u15 = document.getElementById('u15');
@@ -80,7 +82,7 @@ var u14 = document.getElementById('u14');
 var u4 = document.getElementById('u4');
 
 var u38 = document.getElementById('u38');
-gv_vAlignTable['u38'] = 'top';
+gv_vAlignTable['u38'] = 'center';
 var u43 = document.getElementById('u43');
 
 u43.style.cursor = 'pointer';
@@ -93,7 +95,7 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="About_UL_Lafayette.html" + GetQuerystring();
+	self.location.href="Admission.html" + GetQuerystring();
 
 }
 
@@ -111,7 +113,7 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="Admission.html" + GetQuerystring();
+	self.location.href="Academics.html" + GetQuerystring();
 
 }
 
@@ -122,10 +124,26 @@ gv_vAlignTable['u40'] = 'center';
 var u1 = document.getElementById('u1');
 gv_vAlignTable['u1'] = 'center';
 var u37 = document.getElementById('u37');
-gv_vAlignTable['u37'] = 'top';
+
 var u26 = document.getElementById('u26');
-gv_vAlignTable['u26'] = 'center';
+gv_vAlignTable['u26'] = 'top';
 var u41 = document.getElementById('u41');
+
+u41.style.cursor = 'pointer';
+if (bIE) u41.attachEvent("onclick", Clicku41);
+else u41.addEventListener("click", Clicku41, true);
+function Clicku41(e)
+{
+windowEvent = e;
+
+
+if (true) {
+
+	self.location.href="homepage_redesign.html" + "";
+
+}
+
+}
 gv_vAlignTable['u41'] = 'top';
 var u10 = document.getElementById('u10');
 
@@ -140,7 +158,7 @@ var u39 = document.getElementById('u39');
 var u9 = document.getElementById('u9');
 gv_vAlignTable['u9'] = 'center';
 var u35 = document.getElementById('u35');
-
+gv_vAlignTable['u35'] = 'center';
 var u27 = document.getElementById('u27');
 
 var u7 = document.getElementById('u7');
@@ -157,18 +175,20 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="homepage_redesign.html" + "";
+	self.location.href="About_UL_Lafayette.html" + GetQuerystring();
 
 }
 
 }
 gv_vAlignTable['u42'] = 'top';
+var u58 = document.getElementById('u58');
+gv_vAlignTable['u58'] = 'top';
 var u23 = document.getElementById('u23');
-
+gv_vAlignTable['u23'] = 'center';
 var u24 = document.getElementById('u24');
-gv_vAlignTable['u24'] = 'center';
+gv_vAlignTable['u24'] = 'top';
 var u25 = document.getElementById('u25');
-
+gv_vAlignTable['u25'] = 'top';
 var u46 = document.getElementById('u46');
 
 u46.style.cursor = 'pointer';
@@ -181,50 +201,42 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="resources/reload.html#" + encodeURI(PageUrl + GetQuerystring());
+	self.location.href="Research.html" + GetQuerystring();
 
 }
 
 }
 gv_vAlignTable['u46'] = 'top';
+var u53 = document.getElementById('u53');
+
+var u56 = document.getElementById('u56');
+gv_vAlignTable['u56'] = 'center';
+var u54 = document.getElementById('u54');
+gv_vAlignTable['u54'] = 'center';
 var u2 = document.getElementById('u2');
 
 var u18 = document.getElementById('u18');
 
 var u19 = document.getElementById('u19');
 gv_vAlignTable['u19'] = 'center';
-var u20 = document.getElementById('u20');
+var u55 = document.getElementById('u55');
 
+var u20 = document.getElementById('u20');
+gv_vAlignTable['u20'] = 'top';
 var u5 = document.getElementById('u5');
 gv_vAlignTable['u5'] = 'center';
 var u48 = document.getElementById('u48');
-gv_vAlignTable['u48'] = 'top';
+gv_vAlignTable['u48'] = 'center';
 var u22 = document.getElementById('u22');
 
 var u49 = document.getElementById('u49');
-gv_vAlignTable['u49'] = 'top';
+
 var u47 = document.getElementById('u47');
 
-u47.style.cursor = 'pointer';
-if (bIE) u47.attachEvent("onclick", Clicku47);
-else u47.addEventListener("click", Clicku47, true);
-function Clicku47(e)
-{
-windowEvent = e;
-
-
-if (true) {
-
-	self.location.href="Research.html" + GetQuerystring();
-
-}
-
-}
-gv_vAlignTable['u47'] = 'top';
 var u50 = document.getElementById('u50');
-gv_vAlignTable['u50'] = 'top';
+gv_vAlignTable['u50'] = 'center';
 var u51 = document.getElementById('u51');
-gv_vAlignTable['u51'] = 'top';
+
 var u45 = document.getElementById('u45');
 
 u45.style.cursor = 'pointer';
@@ -237,14 +249,14 @@ windowEvent = e;
 
 if (true) {
 
-	self.location.href="Academics.html" + GetQuerystring();
+	self.location.href="resources/reload.html#" + encodeURI(PageUrl + GetQuerystring());
 
 }
 
 }
 gv_vAlignTable['u45'] = 'top';
 var u52 = document.getElementById('u52');
-gv_vAlignTable['u52'] = 'top';
+gv_vAlignTable['u52'] = 'center';
 var u33 = document.getElementById('u33');
 gv_vAlignTable['u33'] = 'top';
 var u34 = document.getElementById('u34');

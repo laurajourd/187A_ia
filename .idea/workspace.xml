@@ -2,7 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49d8a7a-3848-4f77-80ac-fb4c69e3158f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hardestdecisionsx.html" afterPath="$PROJECT_DIR$/hardestdecisionsx.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u0_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u0_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u11_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u11_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u13_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u13_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u19_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u19_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u22_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u22_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u24_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u24_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u2_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u2_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u46_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u46_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u4_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u4_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u7_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u7_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/u9_original.png" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/u9_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u0_original.png" afterPath="$PROJECT_DIR$/Academics_files/u0_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u10_original.png" afterPath="$PROJECT_DIR$/Academics_files/u10_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u12_original.png" afterPath="$PROJECT_DIR$/Academics_files/u12_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u14_original.png" afterPath="$PROJECT_DIR$/Academics_files/u14_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u16_original.png" afterPath="$PROJECT_DIR$/Academics_files/u16_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u2_original.png" afterPath="$PROJECT_DIR$/Academics_files/u2_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u33_original.png" afterPath="$PROJECT_DIR$/Academics_files/u33_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u4_original.png" afterPath="$PROJECT_DIR$/Academics_files/u4_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u6_original.png" afterPath="$PROJECT_DIR$/Academics_files/u6_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/u8_original.png" afterPath="$PROJECT_DIR$/Academics_files/u8_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u0_original.png" afterPath="$PROJECT_DIR$/Admission_files/u0_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u10_original.png" afterPath="$PROJECT_DIR$/Admission_files/u10_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u12_original.png" afterPath="$PROJECT_DIR$/Admission_files/u12_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u14_original.png" afterPath="$PROJECT_DIR$/Admission_files/u14_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u24_original.png" afterPath="$PROJECT_DIR$/Admission_files/u24_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u29_original.png" afterPath="$PROJECT_DIR$/Admission_files/u29_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u2_original.png" afterPath="$PROJECT_DIR$/Admission_files/u2_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u32_original.png" afterPath="$PROJECT_DIR$/Admission_files/u32_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u34_original.png" afterPath="$PROJECT_DIR$/Admission_files/u34_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u38_original.png" afterPath="$PROJECT_DIR$/Admission_files/u38_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u4_original.png" afterPath="$PROJECT_DIR$/Admission_files/u4_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u55_original.gif" afterPath="$PROJECT_DIR$/Admission_files/u55_original.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u6_original.png" afterPath="$PROJECT_DIR$/Admission_files/u6_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/u8_original.png" afterPath="$PROJECT_DIR$/Admission_files/u8_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u0_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u0_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u10_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u10_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u12_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u12_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u14_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u14_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u27_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u27_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u29_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u29_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u31_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u31_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u34_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u34_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u4_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u4_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u6_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u6_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/u8_original.png" afterPath="$PROJECT_DIR$/Campus_Life_files/u8_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u10_original.png" afterPath="$PROJECT_DIR$/Research_files/u10_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u12_original.png" afterPath="$PROJECT_DIR$/Research_files/u12_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u14_original.png" afterPath="$PROJECT_DIR$/Research_files/u14_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u16_original.png" afterPath="$PROJECT_DIR$/Research_files/u16_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u22_original.png" afterPath="$PROJECT_DIR$/Research_files/u22_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u27_original.png" afterPath="$PROJECT_DIR$/Research_files/u27_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u2_original.png" afterPath="$PROJECT_DIR$/Research_files/u2_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u31_original.png" afterPath="$PROJECT_DIR$/Research_files/u31_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u4_original.png" afterPath="$PROJECT_DIR$/Research_files/u4_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/u6_original.png" afterPath="$PROJECT_DIR$/Research_files/u6_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wireframes.rp" afterPath="$PROJECT_DIR$/wireframes.rp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette.html" afterPath="$PROJECT_DIR$/About_UL_Lafayette.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificscript.js" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificstyles.css" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificstyles_ie6.css" afterPath="$PROJECT_DIR$/About_UL_Lafayette_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics.html" afterPath="$PROJECT_DIR$/Academics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificscript.js" afterPath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificstyles.css" afterPath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificstyles_ie6.css" afterPath="$PROJECT_DIR$/Academics_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission.html" afterPath="$PROJECT_DIR$/Admission.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificscript.js" afterPath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificstyles.css" afterPath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificstyles_ie6.css" afterPath="$PROJECT_DIR$/Admission_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life.html" afterPath="$PROJECT_DIR$/Campus_Life.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificscript.js" afterPath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificstyles.css" afterPath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificstyles_ie6.css" afterPath="$PROJECT_DIR$/Campus_Life_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research.html" afterPath="$PROJECT_DIR$/Research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/axurerp_pagespecificscript.js" afterPath="$PROJECT_DIR$/Research_files/axurerp_pagespecificscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/axurerp_pagespecificstyles.css" afterPath="$PROJECT_DIR$/Research_files/axurerp_pagespecificstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Research_files/axurerp_pagespecificstyles_ie6.css" afterPath="$PROJECT_DIR$/Research_files/axurerp_pagespecificstyles_ie6.css" />
     </list>
     <ignored path="187A_ia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,19 +149,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hardestdecisions.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hardestdecisions.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="50" selection-start="4721" selection-end="4721" vertical-scroll-proportion="0.62933755">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hardestdecisionsx.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hardestdecisionsx.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="53" selection-start="14589" selection-end="14589" vertical-scroll-proportion="-17.153847">
+            <state line="141" column="50" selection-start="9395" selection-end="9395" vertical-scroll-proportion="-15.346154">
               <folding />
             </state>
           </provider>
@@ -109,10 +176,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="note_to_self" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="note_to_self" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/note_to_self">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="43" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.31890333">
               <folding />
             </state>
           </provider>
@@ -140,7 +207,6 @@
         <option value="$PROJECT_DIR$/index2x.html" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/187A_infoarch_index.html" />
-        <option value="$PROJECT_DIR$/hardestdecisions.html" />
         <option value="$PROJECT_DIR$/redesign.html" />
         <option value="$PROJECT_DIR$/users.html" />
         <option value="$PROJECT_DIR$/javascripts/main.js" />
@@ -149,6 +215,7 @@
         <option value="$PROJECT_DIR$/homepage_redesign.html" />
         <option value="$PROJECT_DIR$/competitiveanalysis.html" />
         <option value="$PROJECT_DIR$/hardestdecisionsx.html" />
+        <option value="$PROJECT_DIR$/hardestdecisions.html" />
       </list>
     </option>
   </component>
@@ -299,13 +366,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259053" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2597036" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2597036" sideWeight="0.67270195" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -401,13 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note_to_self">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="43" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="122" column="18" selection-start="3030" selection-end="3030" vertical-scroll-proportion="0.0">
@@ -461,16 +521,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hardestdecisionsx.html">
+    <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="53" selection-start="14589" selection-end="14589" vertical-scroll-proportion="-17.153847">
+        <state line="141" column="50" selection-start="9395" selection-end="9395" vertical-scroll-proportion="-15.346154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hardestdecisions.html">
+    <entry file="file://$PROJECT_DIR$/note_to_self">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="50" selection-start="4721" selection-end="4721" vertical-scroll-proportion="0.62933755">
+        <state line="13" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.31890333">
           <folding />
         </state>
       </provider>

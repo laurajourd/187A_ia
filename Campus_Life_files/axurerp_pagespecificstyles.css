@@ -29,9 +29,9 @@ div.main_container {
 .u0_container {
     position:absolute;
     left:780px;
-    top:330px;
+    top:309px;
     width:180px;
-    height:546px;
+    height:579px;
 }
 
 #u0_img {
@@ -39,13 +39,13 @@ div.main_container {
     left:-3px;
     top:-3px;
     width:186px;
-    height:552px;
+    height:585px;
 }
 
 .u1 {
     position:absolute;
     left:2px;
-    top:265px;
+    top:282px;
     width:176px;
     height:16px;
     ;
@@ -59,24 +59,62 @@ div.main_container {
 .u0 {
     position:absolute;
     left:780px;
-    top:330px;
+    top:309px;
     width:180px;
-    height:546px
-}
-
-.u2_original {
-    background-image: url('../Campus_Life_files/u2_original.png');
+    height:579px
 }
 
 .u2_container {
     position:absolute;
+    left:790px;
+    top:334px;
+    width:160px;
+    height:271px;
+}
+
+#u2_img {
+    position:absolute;
     left:0px;
-    top:299px;
+    top:0px;
+    width:160px;
+    height:271px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:128px;
+    width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:790px;
+    top:334px;
+    width:160px;
+    height:271px
+}
+
+.u4_original {
+    background-image: url('../Campus_Life_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:0px;
+    top:311px;
     width:180px;
     height:554px;
 }
 
-#u2_img {
+#u4_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -84,7 +122,7 @@ div.main_container {
     height:560px;
 }
 
-.u3 {
+.u5 {
     position:absolute;
     left:2px;
     top:269px;
@@ -98,54 +136,12 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u2 {
-    position:absolute;
-    left:0px;
-    top:299px;
-    width:180px;
-    height:554px
-}
-
-.u4_original {
-    background-image: url('../Campus_Life_files/u4_original.png');
-}
-
-.u4_container {
-    position:absolute;
-    left:0px;
-    top:830px;
-    width:960px;
-    height:80px;
-}
-
-#u4_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:966px;
-    height:86px;
-}
-
-.u5 {
-    position:absolute;
-    left:2px;
-    top:32px;
-    width:956px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
 .u4 {
     position:absolute;
     left:0px;
-    top:830px;
-    width:960px;
-    height:80px
+    top:311px;
+    width:180px;
+    height:554px
 }
 
 .u6_original {
@@ -154,10 +150,10 @@ div.main_container {
 
 .u6_container {
     position:absolute;
-    left:780px;
-    top:199px;
+    left:0px;
+    top:212px;
     width:180px;
-    height:140px;
+    height:80px;
 }
 
 #u6_img {
@@ -165,13 +161,13 @@ div.main_container {
     left:-3px;
     top:-3px;
     width:186px;
-    height:146px;
+    height:86px;
 }
 
 .u7 {
     position:absolute;
     left:2px;
-    top:62px;
+    top:32px;
     width:176px;
     height:16px;
     ;
@@ -184,10 +180,10 @@ div.main_container {
 
 .u6 {
     position:absolute;
-    left:780px;
-    top:199px;
+    left:0px;
+    top:212px;
     width:180px;
-    height:140px
+    height:80px
 }
 
 .u8_original {
@@ -196,25 +192,25 @@ div.main_container {
 
 .u8_container {
     position:absolute;
-    left:0px;
-    top:200px;
-    width:180px;
-    height:80px;
+    left:179px;
+    top:212px;
+    width:611px;
+    height:87px;
 }
 
 #u8_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:186px;
-    height:86px;
+    width:617px;
+    height:93px;
 }
 
 .u9 {
     position:absolute;
     left:2px;
-    top:32px;
-    width:176px;
+    top:36px;
+    width:607px;
     height:16px;
     ;
     ;
@@ -226,10 +222,10 @@ div.main_container {
 
 .u8 {
     position:absolute;
-    left:0px;
-    top:200px;
-    width:180px;
-    height:80px
+    left:179px;
+    top:212px;
+    width:611px;
+    height:87px
 }
 
 .u10_original {
@@ -238,25 +234,25 @@ div.main_container {
 
 .u10_container {
     position:absolute;
-    left:179px;
-    top:200px;
-    width:600px;
-    height:80px;
+    left:780px;
+    top:211px;
+    width:180px;
+    height:98px;
 }
 
 #u10_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:606px;
-    height:86px;
+    width:186px;
+    height:104px;
 }
 
 .u11 {
     position:absolute;
     left:2px;
-    top:32px;
-    width:596px;
+    top:41px;
+    width:176px;
     height:16px;
     ;
     ;
@@ -268,10 +264,10 @@ div.main_container {
 
 .u10 {
     position:absolute;
-    left:179px;
-    top:200px;
-    width:600px;
-    height:80px
+    left:780px;
+    top:211px;
+    width:180px;
+    height:98px
 }
 
 .u12_original {
@@ -281,9 +277,9 @@ div.main_container {
 .u12_container {
     position:absolute;
     left:180px;
-    top:289px;
+    top:301px;
     width:600px;
-    height:540px;
+    height:558px;
 }
 
 #u12_img {
@@ -291,13 +287,13 @@ div.main_container {
     left:-3px;
     top:-3px;
     width:606px;
-    height:546px;
+    height:564px;
 }
 
 .u13 {
     position:absolute;
     left:2px;
-    top:262px;
+    top:271px;
     width:596px;
     height:16px;
     ;
@@ -311,9 +307,9 @@ div.main_container {
 .u12 {
     position:absolute;
     left:180px;
-    top:289px;
+    top:301px;
     width:600px;
-    height:540px
+    height:558px
 }
 
 .u14_original {
@@ -322,325 +318,13 @@ div.main_container {
 
 .u14_container {
     position:absolute;
-    left:-100px;
-    top:160px;
-    width:1060px;
-    height:30px;
-}
-
-#u14_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:1066px;
-    height:36px;
-}
-
-.u15 {
-    position:absolute;
-    left:2px;
-    top:7px;
-    width:1056px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u14 {
-    position:absolute;
-    left:-100px;
-    top:160px;
-    width:1060px;
-    height:30px
-}
-
-.u16_original {
-    background-image: url('../Campus_Life_files/u16_original.png');
-}
-
-.u16_container {
-    position:absolute;
     left:0px;
-    top:7px;
-    width:960px;
-    height:150px;
-}
-
-#u16_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:960px;
-    height:150px;
-}
-
-.u17 {
-    position:absolute;
-    left:2px;
-    top:67px;
-    width:956px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u16 {
-    position:absolute;
-    left:0px;
-    top:7px;
-    width:960px;
-    height:150px
-}
-
-.u18_original {
-    background-image: url('../Campus_Life_files/u18_original.png');
-}
-
-.u18_container {
-    position:absolute;
-    left:0px;
-    top:1px;
-    width:960px;
-    height:5px;
-}
-
-#u18_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:966px;
-    height:11px;
-}
-
-.u19 {
-    position:absolute;
-    left:2px;
-    top:-6px;
-    width:956px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u18 {
-    position:absolute;
-    left:0px;
-    top:1px;
-    width:960px;
-    height:5px
-}
-
-.u20_original {
-    background-image: url('../Campus_Life_files/u20_original.png');
-}
-
-.u20_container {
-    position:absolute;
-    left:37px;
-    top:32px;
-    width:99px;
-    height:87px;
-}
-
-#u20_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:99px;
-    height:87px;
-}
-
-.u21 {
-    position:absolute;
-    left:2px;
-    top:36px;
-    width:95px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u20 {
-    position:absolute;
-    left:37px;
-    top:32px;
-    width:99px;
-    height:87px
-}
-
-.u22 {
-    position:absolute;
-    left:790px;
-    top:50px;
-    width:123px;
-    height:25px;
-    ;
-    ;
-    text-align: left;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u23_original {
-    background-image: url('../Campus_Life_files/u23_original.png');
-}
-
-.u23_container {
-    position:absolute;
-    left:920px;
-    top:50px;
-    width:25px;
-    height:25px;
-}
-
-#u23_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:25px;
-    height:25px;
-}
-
-.u24 {
-    position:absolute;
-    left:2px;
-    top:4px;
-    width:21px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u23 {
-    position:absolute;
-    left:920px;
-    top:50px;
-    width:25px;
-    height:25px
-}
-
-.u25_original {
-    background-image: url('../Campus_Life_files/u25_original.png');
-}
-
-.u25_container {
-    position:absolute;
-    left:0px;
-    top:911px;
-    width:960px;
-    height:7px;
-}
-
-#u25_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:966px;
-    height:13px;
-}
-
-.u26 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:956px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u25 {
-    position:absolute;
-    left:0px;
-    top:911px;
-    width:960px;
-    height:7px
-}
-
-.u27_original {
-    background-image: url('../Campus_Life_files/u27_original.png');
-}
-
-.u27_container {
-    position:absolute;
-    left:110px;
-    top:840px;
-    width:50px;
-    height:50px;
-}
-
-#u27_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:50px;
-    height:50px;
-}
-
-.u28 {
-    position:absolute;
-    left:2px;
-    top:17px;
-    width:46px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u27 {
-    position:absolute;
-    left:110px;
-    top:840px;
-    width:50px;
-    height:50px
-}
-
-.u29_original {
-    background-image: url('../Campus_Life_files/u29_original.png');
-}
-
-.u29_container {
-    position:absolute;
-    left:0px;
-    top:282px;
+    top:293px;
     width:960px;
     height:20px;
 }
 
-#u29_img {
+#u14_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -648,7 +332,7 @@ div.main_container {
     height:26px;
 }
 
-.u30 {
+.u15 {
     position:absolute;
     left:2px;
     top:2px;
@@ -662,62 +346,20 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u29 {
+.u14 {
     position:absolute;
     left:0px;
-    top:282px;
+    top:293px;
     width:960px;
     height:20px
 }
 
-.u31_original {
-    background-image: url('../Campus_Life_files/u25_original.png');
-}
-
-.u31_container {
-    position:absolute;
-    left:0px;
-    top:823px;
-    width:960px;
-    height:7px;
-}
-
-#u31_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:966px;
-    height:13px;
-}
-
-.u32 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:956px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u31 {
-    position:absolute;
-    left:0px;
-    top:823px;
-    width:960px;
-    height:7px
-}
-
-.u33 {
+.u16 {
     position:absolute;
     left:39px;
-    top:348px;
+    top:360px;
     width:150px;
-    height:270px;
+    height:324px;
     ;
     ;
     ;
@@ -726,10 +368,10 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u34 {
+.u17 {
     position:absolute;
-    left:782px;
-    top:206px;
+    left:785px;
+    top:218px;
     width:170px;
     height:22px;
     ;
@@ -744,15 +386,15 @@ div.main_container {
     
 }
 
-.u35_container {
+.u18_container {
     position:absolute;
     left:243px;
-    top:303px;
+    top:320px;
     width:477px;
     height:200px;
 }
 
-#u35_img {
+#u18_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -760,7 +402,7 @@ div.main_container {
     height:200px;
 }
 
-.u36 {
+.u19 {
     position:absolute;
     left:2px;
     top:92px;
@@ -774,18 +416,18 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u35 {
+.u18 {
     position:absolute;
     left:243px;
-    top:303px;
+    top:320px;
     width:477px;
     height:200px
 }
 
-.u37 {
+.u20 {
     position:absolute;
     left:243px;
-    top:225px;
+    top:237px;
     width:180px;
     height:32px;
     ;
@@ -796,12 +438,12 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u38 {
+.u21 {
     position:absolute;
     left:794px;
-    top:732px;
+    top:744px;
     width:150px;
-    height:80px;
+    height:68px;
     ;
     ;
     ;
@@ -810,27 +452,353 @@ div.main_container {
     word-wrap:break-word;
 }
 
+.u22_container {
+    position:absolute;
+    left:810px;
+    top:642px;
+    width:130px;
+    height:77px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:77px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:810px;
+    top:642px;
+    width:130px;
+    height:77px
+}
+
+.u24 {
+    position:absolute;
+    left:40px;
+    top:294px;
+    width:150px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:820px;
+    top:621px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:243px;
+    top:544px;
+    width:477px;
+    height:209px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_original {
+    background-image: url('../Campus_Life_files/u27_original.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:960px;
+    height:150px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:0px;
+    top:7px;
+    width:960px;
+    height:150px
+}
+
+.u29_original {
+    background-image: url('../Campus_Life_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:960px;
+    height:5px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:960px;
+    height:5px
+}
+
+.u31_original {
+    background-image: url('../Campus_Life_files/u31_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:99px;
+    height:87px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:37px;
+    top:32px;
+    width:99px;
+    height:87px
+}
+
+.u33 {
+    position:absolute;
+    left:794px;
+    top:20px;
+    width:170px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_original {
+    background-image: url('../Campus_Life_files/u34_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:788px;
+    top:49px;
+    width:161px;
+    height:30px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:167px;
+    height:36px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:788px;
+    top:49px;
+    width:161px;
+    height:30px
+}
+
+.u36 {
+    position:absolute;
+    left:790px;
+    top:51px;
+    width:158px;
+    height:26px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Helvetica Neue';
+    font-size: 10px;
+    color:#555555;
+    font-style:italic;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u37_original {
+    background-image: url('../Campus_Life_files/u37_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:927px;
+    top:55px;
+    width:20px;
+    height:20px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:20px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:927px;
+    top:55px;
+    width:20px;
+    height:20px
+}
+
+.u39_original {
+    background-image: url('../Campus_Life_files/u39_original.png');
+}
+
 .u39_container {
     position:absolute;
-    left:780px;
-    top:400px;
-    width:180px;
-    height:110px;
+    left:0px;
+    top:162px;
+    width:960px;
+    height:39px;
 }
 
 #u39_img {
     position:absolute;
-    left:0px;
-    top:0px;
-    width:180px;
-    height:110px;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:45px;
 }
 
 .u40 {
     position:absolute;
     left:2px;
-    top:47px;
-    width:176px;
+    top:12px;
+    width:956px;
     height:16px;
     ;
     ;
@@ -842,18 +810,18 @@ div.main_container {
 
 .u39 {
     position:absolute;
-    left:780px;
-    top:400px;
-    width:180px;
-    height:110px
+    left:0px;
+    top:162px;
+    width:960px;
+    height:39px
 }
 
-.u41 {
+.u41_text {
     position:absolute;
-    left:40px;
-    top:285px;
+    left:60px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px;
     ;
     ;
     ;
@@ -862,12 +830,20 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u42_text {
+.u41 {
     position:absolute;
     left:60px;
-    top:170px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px
+}
+
+.u42_text {
+    position:absolute;
+    left:180px;
+    top:173px;
+    width:150px;
+    height:20px;
     ;
     ;
     ;
@@ -878,18 +854,18 @@ div.main_container {
 
 .u42 {
     position:absolute;
-    left:60px;
-    top:170px;
+    left:180px;
+    top:173px;
     width:150px;
-    height:15px
+    height:20px
 }
 
 .u43_text {
     position:absolute;
-    left:180px;
-    top:170px;
+    left:380px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px;
     ;
     ;
     ;
@@ -900,18 +876,18 @@ div.main_container {
 
 .u43 {
     position:absolute;
-    left:180px;
-    top:170px;
+    left:380px;
+    top:173px;
     width:150px;
-    height:15px
+    height:20px
 }
 
 .u44_text {
     position:absolute;
-    left:400px;
-    top:170px;
+    left:530px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px;
     ;
     ;
     ;
@@ -922,18 +898,18 @@ div.main_container {
 
 .u44 {
     position:absolute;
-    left:400px;
-    top:170px;
+    left:530px;
+    top:173px;
     width:150px;
-    height:15px
+    height:20px
 }
 
 .u45_text {
     position:absolute;
-    left:540px;
-    top:170px;
+    left:700px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px;
     ;
     ;
     ;
@@ -944,18 +920,18 @@ div.main_container {
 
 .u45 {
     position:absolute;
-    left:540px;
-    top:170px;
+    left:700px;
+    top:173px;
     width:150px;
-    height:15px
+    height:20px
 }
 
 .u46_text {
     position:absolute;
-    left:690px;
-    top:170px;
+    left:850px;
+    top:173px;
     width:150px;
-    height:15px;
+    height:20px;
     ;
     ;
     ;
@@ -966,18 +942,38 @@ div.main_container {
 
 .u46 {
     position:absolute;
-    left:690px;
-    top:170px;
+    left:850px;
+    top:173px;
     width:150px;
-    height:15px
+    height:20px
 }
 
-.u47_text {
+.u47_original {
+    background-image: url('../Campus_Life_files/u47_original.png');
+}
+
+.u47_container {
     position:absolute;
-    left:830px;
-    top:170px;
-    width:150px;
-    height:15px;
+    left:0px;
+    top:207px;
+    width:960px;
+    height:5px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
     ;
     ;
     ;
@@ -988,18 +984,38 @@ div.main_container {
 
 .u47 {
     position:absolute;
-    left:830px;
-    top:170px;
-    width:150px;
-    height:15px
+    left:0px;
+    top:207px;
+    width:960px;
+    height:5px
 }
 
-.u48 {
+.u49_original {
+    background-image: url('../Campus_Life_files/u49_original.png');
+}
+
+.u49_container {
     position:absolute;
-    left:810px;
-    top:20px;
-    width:170px;
-    height:48px;
+    left:0px;
+    top:848px;
+    width:960px;
+    height:111px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:117px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:956px;
+    height:16px;
     ;
     ;
     ;
@@ -1010,24 +1026,38 @@ div.main_container {
 
 .u49 {
     position:absolute;
-    left:820px;
-    top:374px;
-    width:110px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+    left:0px;
+    top:848px;
+    width:960px;
+    height:111px
 }
 
-.u50 {
+.u51_original {
+    background-image: url('../Campus_Life_files/u29_original.png');
+}
+
+.u51_container {
     position:absolute;
-    left:243px;
-    top:532px;
-    width:477px;
-    height:150px;
+    left:0px;
+    top:957px;
+    width:960px;
+    height:5px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
     ;
     ;
     ;
@@ -1038,10 +1068,38 @@ div.main_container {
 
 .u51 {
     position:absolute;
-    left:180px;
-    top:840px;
-    width:300px;
+    left:0px;
+    top:957px;
+    width:960px;
+    height:5px
+}
+
+.u53_original {
+    background-image: url('../Campus_Life_files/u53_original.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:90px;
+    top:868px;
+    width:60px;
     height:60px;
+}
+
+#u53_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:60px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
     ;
     ;
     ;
@@ -1050,12 +1108,76 @@ div.main_container {
     word-wrap:break-word;
 }
 
-.u52 {
+.u53 {
     position:absolute;
-    left:820px;
-    top:850px;
-    width:120px;
-    height:72px;
+    left:90px;
+    top:868px;
+    width:60px;
+    height:60px
+}
+
+.u55_original {
+    background-image: url('../Campus_Life_files/u29_original.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:843px;
+    width:960px;
+    height:5px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:11px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:0px;
+    top:843px;
+    width:960px;
+    height:5px
+}
+
+.u57 {
+    position:absolute;
+    left:180px;
+    top:868px;
+    width:300px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:713px;
+    top:871px;
+    width:160px;
+    height:96px;
     ;
     ;
     ;

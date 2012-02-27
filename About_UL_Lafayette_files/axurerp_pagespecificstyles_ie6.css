@@ -33,19 +33,9 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u13_original.png");
 }
 
-* html .u15_original {
+* html .u19_original {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u15_original.png");
-}
-
-* html .u18_original {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u18_original.png");
-}
-
-* html .u20_original {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u15_original.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u19_original.png");
 }
 
 * html .u22_original {
@@ -58,23 +48,43 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u24_original.png");
 }
 
-* html .u30_original {
+* html .u27_original {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u30_original.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u27_original.png");
 }
 
-* html .u33_original {
+* html .u41_original {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u33_original.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u41_original.png");
 }
 
-* html .u35_original {
+* html .u44_original {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u35_original.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u44_original.png");
 }
 
-* html .u39_original {
+* html .u46_original {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u39_original.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u46_original.png");
+}
+
+* html .u48_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u48_original.png");
+}
+
+* html .u50_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u13_original.png");
+}
+
+* html .u52_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u13_original.png");
+}
+
+* html .u54_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="About_UL_Lafayette_files/u54_original.png");
 }
 
